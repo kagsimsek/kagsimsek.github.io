@@ -27,4 +27,4 @@ Courses I’m assisting this semester (2022 Winter):
 
 none
 
-My most recent CV can be found ![here](./files/cv/ksimsek_cv_en.pdf).
+My most recent CV can be found [here](https://github.com/kagsimsek/kagsimsek.github.io/blob/main/files/cv/ksimsek_cv_en.pdf).

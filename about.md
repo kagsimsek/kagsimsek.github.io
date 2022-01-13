@@ -1,3 +1,7 @@
+layout: page
+title: "about"
+permalink: https://kagsimsek.github.io/about
+
 **Education**:
 
 Physics PhD student, Northwestern University, Evanston, IL, 2020 -- present

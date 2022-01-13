@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: personal website 
 description:
 github:
-is\_project\_page:false
+is_project_page: false

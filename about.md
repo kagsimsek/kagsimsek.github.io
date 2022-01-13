@@ -1,6 +1,6 @@
 ## About
 
-**Education**:
+**Education**
 
 Physics PhD student, Northwestern University, Evanston, IL, 2020 -- present
 
@@ -12,7 +12,7 @@ Physics BS, Middle East Technical University, Ankara, Turkey, 2012 -- 2017
 
 Civil Engineering, BS, Middle East Technical University, Ankara, Turkey, 2009 -- 2016
 
-**Research interest**:
+**Research interest**
 
 Theories with extra dimensions, physics beyond the Standard Model, hadron physics, rare processes, top physics, QCD, SM effective field theory
 

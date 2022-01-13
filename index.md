@@ -18,7 +18,6 @@ ksimsek[at]u[dot]northwestern[dot]edu
 [Writing Instruments](https://kagsimsek.github.io/writing_instruments)
 [Tutorials](https://kagsimsek.github.io/tutorials)
 [Werke](https://kagsimsek.github.io/werke)
-[Research](https://kagsimsek.github.io/research)
 [Teaching](https://kagsimsek.github.io/teaching)
 
 january 2022 -- present

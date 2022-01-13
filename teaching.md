@@ -1,5 +1,7 @@
 ## Teaching
 
+Below is the list of the courses I have assisted so far. The course materials will also be shared upon availability.
+
 @ Middle East Technical University, Ankara, Turkey
 
 - Undergrad level

@@ -12,5 +12,7 @@ evanston, il 60208, usa
 
 ksimsek[at]u[dot]northwestern[dot]edu
 
-[About](https://kagsimsek.github.io/about)  [Hobbies](https://kagsimsek.github.io/hobbies) [Misc](https://kagsimsek.github.io/misc)
+[About](https://kagsimsek.github.io/about) | [Hobbies](https://kagsimsek.github.io/hobbies) | [Misc](https://kagsimsek.github.io/misc)
+
+january 2022 -- present
 

@@ -1,6 +1,4 @@
-layout: page
-title: "about"
-permalink: https://kagsimsek.github.io/about
+## About
 
 **Education**:
 

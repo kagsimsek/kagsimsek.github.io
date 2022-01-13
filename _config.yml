@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: 
-description: 
+title: personal website 
+description:
+github:
+  is_project_page: false

@@ -4,6 +4,7 @@
 
 _Science is the most reliable guide in life._ -Mustafa Kemal Ataturk
 
+### Before Jan 14, 2022: Some links may be dead, things may be broken
 
 * Spin matrices for any spin value (Copy the following into a Mathematica notebook and evaluate it). Play only with the s value.
 
@@ -203,11 +204,11 @@ You may want to install the package Pipe Viewer to monitor your progress. Run su
 
 Run lsblk to make sure that it is accessible by your computer. You should see some sdX with a mountpoint /media/something. The total size of sdX should be close to the exact size on your flash drive. You should note that X can be equal to say b or c, and so on. I will continue calling it X but in what follows you should adjust it accordingly.
 
-Now let’s fill your flash drive with zeroes. Assuming your flash drive is N GB where conventionally N is equal to 8, 16, 32, 64, etc., run sudo dd if=/dev/zero | pv -s NG | sudo dd of=/dev/sdX bs=4M && sync.
+Now let’s fill your flash drive with zeroes. Assuming your flash drive is N GB where conventionally N is equal to 8, 16, 32, 64, etc., run `sudo dd if=/dev/zero | pv -s NG | sudo dd of=/dev/sdX bs=4M && sync`.
 
 Now your flash drive is empty as can be. Let’s format it properly. Run sudo fdisk /dev/sdX. You will be asked to enter some commands. Press o first and n next. You will be given some options afterwards. Choose the default always. When you are asked to enter a new command, type and enter w. Finally run sudo mkfs.vfat /dev/sdX1.
 
-Now you are ready to burn the image of a linux distro onto your flash drive. Assuming you have the .iso file in your Downloads folder under home directory, run sudo umount /dev/sdX1 ; sudo dd if=$HOME/Downloads/some_linux_distro.iso | pv -s MG | sudo dd of=/dev/sdX1 bs=4M && sync where M is the smallest integer larger than the size of the .iso file in units of GB.
+Now you are ready to burn the image of a linux distro onto your flash drive. Assuming you have the .iso file in your Downloads folder under home directory, run `sudo umount /dev/sdX1 ; sudo dd if=$HOME/Downloads/some_linux_distro.iso | pv -s MG | sudo dd of=/dev/sdX1 bs=4M && sync` where M is the smallest integer larger than the size of the .iso file in units of GB.
 
 For example, for a 8-GB flash drive that appears to have the label sdb and that has to be burned with ubuntu-16.04.5-desktop-amd64.iso which is located in Downloads under home, do the following:
 
@@ -513,7 +514,7 @@ minimal-tex quick_note
 
 and you should see your pdf file right away.
 
-* I don’t know how useful the following will be but I have this mini code that will print the symbols – \ | / – in sequence:
+* I don’t know how useful the following will be but I have this mini code that will print the symbols `– \ | / –` in sequence:
 
 ```Bash
 while true; do echo -ne "-" ; printf "\r" ; sleep .25 ; echo -ne "\\" ; printf "\r" ; sleep .25 ; echo -ne "|" ; printf "\r" ; sleep .25 ; echo -ne "/" ; printf "\r" ; sleep .25 ; done
@@ -663,7 +664,7 @@ Now print the line:
 printf [ && printf "%${N}s" | tr " " "|" && printf "%${M}s" | tr " " " " && printf ]
 ```
 
-The output will look like: [||||||||||||||||||||||||||                  ]
+The output will look like: `[||||||||||||||||||||||||||                  ]`
 
 You may spice it up a little more by adding colors.
 
@@ -671,6 +672,7 @@ A minimal working example can be found [here](https://www.google.com/url?q=https
 
 * Bash color codes:
 
+```
 \e[0;30m # Black – Regular
 
 \e[0;31m # Red
@@ -736,6 +738,7 @@ A minimal working example can be found [here](https://www.google.com/url?q=https
 \e[47m # White
 
 \e[0m # Text Reset
+```
 
 Usage: Let us print a red ‘Hello World’:
 
@@ -787,10 +790,13 @@ and put your .sty file in local here.
 
 (1) Open the init file for texstudio:
 
+```Bash
 vi $HOME/.config/texstudio/texstudio.ini
+```
 
 (2) Find the following four lines:
 
+```
 [format]
 
 version=1.0
@@ -1742,6 +1748,7 @@ data\wordRepetitionLongRange\underline=false
 data\wordRepetitionLongRange\waveUnderline=true
 
 data\wordRepetitionLongRange\wrapAround=false
+```
 
 (4) Save and exit.
 

@@ -12,13 +12,13 @@ evanston, il 60208, usa
 
 ksimsek[at]u[dot]northwestern[dot]edu
 
-[About](https://kagsimsek.github.io/about)
-[Hobbies](https://kagsimsek.github.io/hobbies)
-[Misc](https://kagsimsek.github.io/misc)
-[Writing Instruments](https://kagsimsek.github.io/writing_instruments)
-[Tutorials](https://kagsimsek.github.io/tutorials)
-[Werke](https://kagsimsek.github.io/werke)
-[Teaching](https://kagsimsek.github.io/teaching)
+[\[__About__]\](https://kagsimsek.github.io/about)
+[\[__Hobbies__\]](https://kagsimsek.github.io/hobbies)
+[\[__Misc__\]](https://kagsimsek.github.io/misc)
+[\[__Writing Instruments__\]](https://kagsimsek.github.io/writing_instruments)
+[\[__Tutorials__\]](https://kagsimsek.github.io/tutorials)
+[\[__Werke__\]](https://kagsimsek.github.io/werke)
+[\[__Teaching__\]](https://kagsimsek.github.io/teaching)
 
 january 2022 -- present
 

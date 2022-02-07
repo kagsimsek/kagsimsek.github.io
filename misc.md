@@ -1,5 +1,7 @@
 ## Misc
 
+[\[__Go back__\]](https://kagsimsek.github.io)
+
 ![Ataturk](./files/img/ataturk_calisirken.jpeg)
 
 _Science is the most reliable guide in life._ -Mustafa Kemal Ataturk

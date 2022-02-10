@@ -7,6 +7,7 @@
 ![Kaweco Perkeo Indian Summer M](./files/fpens/fpens_kaweco_perkeo_indian_summer_m.jpg)
 ![Lamy 2000 M](./files/fpens/fpens_lamy_2000_m.jpg)
 ![Lamy AL Star Black F](./files/fpens/fpens_lamy_al_star_black_f.jpg)
+![Lamy CP1 M](./files/fpens/fpens_lamy_cp1_m.jpg)
 ![Lamy Safari All Black M](./files/fpens/fpens_lamy_safari_all_black_m.jpg)
 ![Lamy Safari Candy Mango M](./files/fpens/fpens_lamy_safari_candy_mango_m.jpg)
 ![Lamy Safari Charcoal LH](./files/fpens/fpens_lamy_safari_charcoal_lh.jpg)
@@ -30,6 +31,8 @@ Kaweco Perkeo Indian Summer M
 Lamy 2000 M
 
 Lamy AL Star Black F
+
+Lamy CP1 M
 
 Lamy Safari All Black M
 

@@ -264,6 +264,18 @@ InstallFeynCalc[]
 ResourceFunction["MaTeXInstall"][]
 ```
 
+* feyntools: FeynArts, LoopTools, FormCalc
+
+```bash
+mkdir ~/packages
+cd ~/packages
+mkdir feyntools
+cd feyntools
+wget http://www.feynarts.de/FeynInstall
+chmod 755 FeynInstall
+./FeynInstall
+```
+
 * qcdnum
 
 ```bash

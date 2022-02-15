@@ -19,6 +19,7 @@ ksimsek[at]u[dot]northwestern[dot]edu
 [\[__Tutorials__\]](https://kagsimsek.github.io/tutorials)
 [\[__Werke__\]](https://kagsimsek.github.io/werke)
 [\[__Teaching__\]](https://kagsimsek.github.io/teaching)
+[\[__SUSE Installaton__\]](https://kagsimsek.github.io/SUSE_installation)
 
 january 2022 -- present
 

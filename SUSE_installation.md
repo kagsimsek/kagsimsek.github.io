@@ -4,7 +4,7 @@
 
 To-do for a fresh installation of Leap or Tumbleweed but with a focus on the latter.
 
-* modern, human-friendly hostname.
+* human-friendly hostname
 
 ```bash
 sudo hostname <computer name>
@@ -47,11 +47,25 @@ sudo zypper in vim make gcc gcc-devel gcc-fortran gcc-c++ htop ffmpeg gnuplot me
                liblapack3 octave shotwell mlocate blas-devel lapack-devel \
                libopenblas_openmp0 libopenblas_openmp-devel libopenblas_serial0 \
                libopenblas_serial-devel openblas-devel libatlascpp-0_6-1 \
-               atlascpp-devel yaml-cpp-devel libyaml-devel libyaml-cpp0_6 # could be 7 \
+               atlascpp-devel yaml-cpp-devel libyaml-devel jaxodraw jaxodraw-latex \
+               # the following could be 7:
+               libyaml-cpp0_6 \
                libtirpc3 libtirpc-devel texstudio git MozillaThunderbird \
-               gcc7 gcc7-c++ gcc7-devel gcc7-fortran # required by xfitter \
-               sof-firmware # sound for x1c9
+               # the following are required by xfitter
+               gcc7 gcc7-c++ gcc7-devel gcc7-fortran \
+               # sound for x1c9
+               sof-firmware 
 sudo updatedb # for `locate` to work
+```
+
+* vim
+
+```bash
+syntax on 
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
 ```
 
 * git

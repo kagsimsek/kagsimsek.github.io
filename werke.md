@@ -4,13 +4,13 @@
 
 **Theses**
 
-[2] K. Şimşek, _Exploring extra dimensions through rare processes_, Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
+[2] K. Şimşek, [_Exploring extra dimensions through rare processes_](https://open.metu.edu.tr/bitstream/handle/11511/43736/index.pdf), Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
 
-[1] K. Şimşek, _Exploring universal extra dimensions_, Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
+[1] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
 
 **Papers**
 
-[7] T. M. Aliev and K. Şimşek, Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules, Phys. Rev. D 104 (2021) 074034 [arXiv: 2107.02735].
+[7] T. M. Aliev and K. Şimşek, _Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules_, [Phys. Rev. D *104* (2021) 074034](https://doi.org/10.1103/PhysRevD.104.074034) [\[arXiv: 2107.02735\]](https://arxiv.org/abs/2107.02735).
 
 [6] T. M. Aliev, T. Barakat, and K. Şimşek, Strong BQQ′* BQQ′ V vertices and the radiative decays of BQQ*→BQQ γ in the light-cone sum rules, Eur. Phys. J. A 57 (2021) 160 [arXiv: 2101.10264].
 

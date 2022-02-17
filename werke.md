@@ -4,9 +4,9 @@
 
 **Theses**
 
-[2] K. Şimşek, Exploring extra dimensions through rare processes, Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
+[2] K. Şimşek, _Exploring extra dimensions through rare processes_, Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
 
-[1] K. Şimşek, Exploring universal extra dimensions, Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
+[1] K. Şimşek, _Exploring universal extra dimensions_, Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
 
 **Papers**
 

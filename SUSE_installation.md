@@ -54,7 +54,9 @@ sudo zypper in vim make gcc gcc-devel gcc-fortran gcc-c++ htop ffmpeg gnuplot me
                # the following are required by xfitter
                gcc7 gcc7-c++ gcc7-devel gcc7-fortran \
                # sound for x1c9
-               sof-firmware 
+               sof-firmware
+               # to connect python to mma
+               python3-pyzmq 
 sudo updatedb # for `locate` to work
 ```
 

@@ -35,7 +35,7 @@ sudo zypper install -t pattern devel_basis
 sudo zypper in vim make gcc gcc-devel gcc-fortran gcc-c++ htop ffmpeg gnuplot meld gv pv \
                texlive-scheme-full \
                python3-devel dropbox-cli libxcb-xtest.so.0 libxcb-xtest0 ibus ibus-m17n bash \
-               cmake binutils bc pandoc lynx libXpm-devel xorg-x11-devel \
+               cmake binutils bc pandoc lynx retext libXpm-devel xorg-x11-devel \
                libXext-devel libopenssl-devel pcre-devel Mesa \
                glew-devel libpng16-devel pkgconf libmariadb-devel \
                fftw3-devel cfitsio cfitsio-devel graphviz graphviz-devel \

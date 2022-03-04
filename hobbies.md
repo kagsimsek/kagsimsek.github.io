@@ -1,6 +1,6 @@
 ## Hobbies
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 _Nous appliquons à l’art pour exprimer complètement l’existence de nous-mêmes sur d’autres de notre genre._
 

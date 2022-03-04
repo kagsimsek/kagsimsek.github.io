@@ -1,6 +1,6 @@
 ## Misc
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 ![Ataturk](./files/img/ataturk_calisirken.jpeg)
 

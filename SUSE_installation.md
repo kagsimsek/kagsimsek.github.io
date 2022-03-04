@@ -1,6 +1,6 @@
 ## SUSE installation
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 To-do for a fresh installation of Leap or Tumbleweed but with a focus on the latter.
 

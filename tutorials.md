@@ -1,6 +1,6 @@
 ## Tutorials
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 _Before Feb 6, 2022: most of the stuff need rewriting. most links are dead or not visible at all._
 

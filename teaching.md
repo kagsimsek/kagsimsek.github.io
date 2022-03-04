@@ -1,6 +1,6 @@
 ## Teaching
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 Below is the list of the courses I have assisted so far. The course materials will also be shared upon availability.
 

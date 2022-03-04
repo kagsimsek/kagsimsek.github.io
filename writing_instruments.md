@@ -1,6 +1,6 @@
 ## Writing Instruments
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 ![Faber Castell Loom Blue M](./files/fpens/fpens_faber_castell_loom_blue_m.jpg)
 ![Kaweco Perkeo All Black M](./files/fpens/fpens_kaweco_perkeo_all_black_m.jpg)

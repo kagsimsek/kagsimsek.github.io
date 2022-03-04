@@ -1,6 +1,6 @@
 ## Werke
 
-[\[__Go back__\]](https://kagsimsek.github.io)
+\[[__Go back__](https://kagsimsek.github.io)\]
 
 **Theses**
 

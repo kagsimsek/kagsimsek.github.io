@@ -10,6 +10,8 @@
 
 **Papers**
 
+[8] R. Abdul Khalek et al., _Snowmass 2021 White Paper: Electron Ion Collider for High Energy Physics_, \[[arXiv: 2203.13199](https://arxiv.org/abs/2203.13199)\].
+
 [7] T. M. Aliev and K. Şimşek, _Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules_, [Phys. Rev. D **104** (2021) 074034](https://doi.org/10.1103/PhysRevD.104.074034) \[[arXiv: 2107.02735](https://arxiv.org/abs/2107.02735)\].
 
 [6] T. M. Aliev, T. Barakat, and K. Şimşek, _Strong BQQ′* BQQ′ V vertices and the radiative decays of BQQ*→BQQ γ in the light-cone sum rules_, [Eur. Phys. J. A **57** (2021) 160](https://doi.org/10.1140/epja/s10050-021-00471-2) \[[arXiv: 2101.10264](https://arxiv.org/abs/2101.10264)\].

@@ -30,6 +30,8 @@
 
 **Seminars and talks**
 
+[3] K. Şimşek, [_Neutral-current SMEFT studies at the EIC_](./files/docs/seminars-003-20220418-northwestern-hep-seminar-neutral_current_smeft_studies_at_the_eic.pdf), seminar given at Northwestern University, April 18, 2022.
+
 [2] K. Şimşek, [_Applications of MUED to rare top quark processes_](./files/docs/seminars-002-20200208-rochester-2020_gsrm_talks-applications_of_mued_to_rare_top_quark_processes.pdf), talk given at University of Rochester, February 8, 2020.
 
 [1] K. Şimşek, [_Universal extra dimensions_](./files/docs/20181206_ksimsek_universal_extra_dimensions_seminar.pdf), seminar given at Middle East Technical University, December 6, 2018.

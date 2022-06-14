@@ -16,6 +16,7 @@ ksimsek[at]u[dot]northwestern[dot]edu
 \[[__Werke__](https://kagsimsek.github.io/werke)\]
 \[[__Teaching__](https://kagsimsek.github.io/teaching)\]
 \[[__SUSE Installation__](https://kagsimsek.github.io/SUSE_installation)\]
+\[[__Hobbies__](https://kagsimsek.github.io/hobbies)\]
 \[[__Writing Instruments__](https://kagsimsek.github.io/writing_instruments)\]
 
 

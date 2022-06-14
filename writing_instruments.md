@@ -24,7 +24,7 @@
 ![](./files/img/fpens/15-faber-castell-loom-blue-m.png)
 
 14. TWSBI Diamon 580ALR Prussian Blue B
-![](./files/img/fpens/14-twsbi-580alr-prussian-blue-m.png)
+![](./files/img/fpens/14-twsbi-580alr-prussian-blue-b.png)
 
 13. TWSBI Vac700R M
 ![](./files/img/fpens/13-twsbi-vac700r-m.png)

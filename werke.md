@@ -30,6 +30,8 @@
 
 **Seminars and talks**
 
+[4] K. Şimşek, [_Neutral-current SMEFT studies at the EIC_](./files/docs/seminars-004-20220621-cfns-workshop-hl-eic-neutral_current_smeft_studies_at_the_eic.pdf), invited seminar given at CFNS Workshop: High-Luminosity EIC (EIC Phase II), June 21, 2022.
+
 [3] K. Şimşek, [_Neutral-current SMEFT studies at the EIC_](./files/docs/seminars-003-20220418-northwestern-hep-seminar-neutral_current_smeft_studies_at_the_eic.pdf), seminar given at Northwestern University, April 18, 2022.
 
 [2] K. Şimşek, [_Applications of MUED to rare top quark processes_](./files/docs/seminars-002-20200208-rochester-2020_gsrm_talks-applications_of_mued_to_rare_top_quark_processes.pdf), talk given at University of Rochester, February 8, 2020.

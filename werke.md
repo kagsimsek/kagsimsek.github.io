@@ -10,7 +10,7 @@
 
 **Papers**
 
-[9] R. Boughezal, A. Emmert, T. Kutz, S. Mantry, M. Nycz, F. Petriello, K. Şimşek, D. Wiegand, X. Zheng, _Neutral-current electroweak physics and SMEFT studies at the EIC_, \[[arXiv: 2204.07557](https://arxiv.org/abs/2204.07557)\]
+[9] R. Boughezal, A. Emmert, T. Kutz, S. Mantry, M. Nycz, F. Petriello, K. Şimşek, D. Wiegand, X. Zheng, _Neutral-current electroweak physics and SMEFT studies at the EIC_, [Phys. Rev. D **106** (2022) 016006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.016006) \[[arXiv: 2204.07557](https://arxiv.org/abs/2204.07557)\]
 
 [8] R. Abdul Khalek et al., _Snowmass 2021 White Paper: Electron Ion Collider for High Energy Physics_, \[[arXiv: 2203.13199](https://arxiv.org/abs/2203.13199)\].
 

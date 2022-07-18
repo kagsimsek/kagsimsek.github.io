@@ -74,6 +74,10 @@ _Practice does not make perfect. Only perfect practice makes perfect._ -Vince Lo
 
 _Your priority should not be achieving in the system, but becoming independent in the system._ -Luke Smith
 
+_That bird has no idea what he's looking at, and yet, what does the bird do? Does he panic? No, he just does the best he can._ -Terry A. Davis
+
+_An idiot admires complexity, while a genius admires simplicity._ -Terry A. Davis
+
 * Quantum-mechanical harmonic oscillator: Copy the following into a Mathematica notebook and evaluate it. WF[n] will produce you the normalized nth eigenfunction of the oscillator.
 
 ```Mathematica

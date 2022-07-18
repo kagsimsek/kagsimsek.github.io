@@ -12,50 +12,28 @@ _Science is the most reliable guide in life._ -Mustafa Kemal Ataturk
 
 ```Mathematica
 s = 1;
-
 dim = 2*s + 1;
-
 Sp = ConstantArray[0, {dim, dim}];
-
 Sm = ConstantArray[0, {dim, dim}];
-
 Sz = ConstantArray[0, {dim, dim}];
-
 i = 1;
-
 For[mp = s, mp >= -s, mp--, j = 1;
-
-For[m = s, m >= -s, m--, 
-
-Sp[[i]][[j]] = \[HBar]*Sqrt[s*(s + 1) - m*(m + 1)]*
-
-KroneckerDelta[mp, m + 1];
-
-Sz[[i]][[j]] = \[HBar]*m*KroneckerDelta[mp, m];
-
-Sm[[i]][[j]] = \[HBar]*Sqrt[s*(s + 1) - m*(m - 1)]*
-
-KroneckerDelta[mp, m - 1];
-
-j++;];
-
+  For[m = s, m >= -s, m--, 
+    Sp[[i]][[j]] = \[HBar]*Sqrt[s*(s + 1) - m*(m + 1)]*
+    KroneckerDelta[mp, m + 1];
+    Sz[[i]][[j]] = \[HBar]*m*KroneckerDelta[mp, m];
+    Sm[[i]][[j]] = \[HBar]*Sqrt[s*(s + 1) - m*(m - 1)]*
+    KroneckerDelta[mp, m - 1];
+    j++;
+  ];
 i++;];
 
 Sx = (Sp + Sm)/2;
-
 Sy = (Sp - Sm)/(2*I);
 
-Print["\!\(\*SubscriptBox[\(S\), \(x\)]\) = ", \[HBar], 
-
-Sx/\[HBar] // MatrixForm]
-
-Print["\!\(\*SubscriptBox[\(S\), \(y\)]\) = ", \[HBar], 
-
-Sy/\[HBar] // MatrixForm]
-
-Print["\!\(\*SubscriptBox[\(S\), \(z\)]\) = ", \[HBar], 
-
-Sz/\[HBar] // MatrixForm]
+Print["\!\(\*SubscriptBox[\(S\), \(x\)]\) = ", \[HBar], Sx/\[HBar] // MatrixForm]
+Print["\!\(\*SubscriptBox[\(S\), \(y\)]\) = ", \[HBar], Sy/\[HBar] // MatrixForm]
+Print["\!\(\*SubscriptBox[\(S\), \(z\)]\) = ", \[HBar], Sz/\[HBar] // MatrixForm]
 ```
 
 * Some of my all time favorite quotes:
@@ -82,19 +60,13 @@ _An idiot admires complexity, while a genius admires simplicity._ -Terry A. Davi
 
 ```Mathematica
 $Assumptions={x0>0,const>0};
-
 P[a_]:=\[HBar]/I D[a,x];
-
 X[a_]:=x a;
-
 a[b_]:=Sqrt[(m \[Omega])/(2 \[HBar])](X[b]+I/(m \[Omega]) P[b]);
-
 aDagger[b_]:=Sqrt[(m \[Omega])/(2 \[HBar])](X[b]-I/(m \[Omega]) P[b]);
-
 \[HBar]=m \[Omega] x0^2;
 
 LowerBound=-Infinity;
-
 UpperBound=Infinity;
 
 DSolve[a[f[x]]==0,f,x]//.C[1]->const;
@@ -102,11 +74,8 @@ DSolve[a[f[x]]==0,f,x]//.C[1]->const;
 Assuming[const>0,Solve[Integrate[f[x]^2,{x,LowerBound,UpperBound}]==1/.%,const]];
 
 \[Psi][0]=f[x]//.%%//.%;
-
 \[Psi][n_]:=1/Sqrt[n] aDagger[\[Psi][n-1]]//FullSimplify;
-
 CheckNorm[n_]:=Integrate[\[Psi][n]^2,{x,LowerBound,UpperBound}];
-
 WF[n_]:={\[Psi][n][[2]],CheckNorm[n][[2]]}[[1]];
 ```
 
@@ -158,19 +127,12 @@ vi .local/share/applications/MyApplication.desktop
 
 ```Bash
 [Desktop Entry]
-
 Name=MyApplication
-
 Comment=
-
 Exec=/path/to/script
-
 Icon=/path/to/icon.png
-
 Terminal=false
-
 Type=Application
-
 StartupNotify=true
 ```
 
@@ -220,15 +182,10 @@ For example, for a 8-GB flash drive that appears to have the label sdb and that 
 
 ```Bash
 sudo apt install pv
-
 sudo dd if=/dev/zero | pv -s 8G | sudo dd of=/dev/sdb bs=4M && sync
-
 sudo fdisk /dev/sdb # press o, n, and choose default, and then w
-
 sudo mkfs.vfat /dev/sdb1
-
 sudo umount /dev/sdb1
-
 sudo dd if=$HOME/Downloads/ubuntu-16.04.4-desktop-amd64.iso | pv -s 2G | sudo dd of=/dev/sdb1 bs=4M && sync
 ```
 
@@ -246,9 +203,7 @@ v. Open a terminal and run the following:
 
 ```Bash
 git config --global user.name "your_username" # do not omit the double quotes
-
 git config --global user.email "your_email" # do not omit the double quotes
-
 git config --global core.editor vim # this is optional
 ```
 
@@ -264,9 +219,7 @@ vii. Run the following:
 
 ```Bash
 eval "$(ssh-agent -s)"
-
 ssh-add ~/.ssh/id_rsa
-
 xdg-open ~/.ssh/id_rsa.pub
 ```
 
@@ -350,9 +303,7 @@ cd ; cd packages ; mkdir write ; cd write ; wget http://www.styluslabs.com/downl
 
 ```Bash
 sudo zypper refresh && sudo zypper -n update
-
 sudo zypper install -t pattern devel_basis
-
 sudo zypper install vim make gcc gcc-fortran gcc-c++ htop ffmpeg gnuplot meld gv pv texlive-scheme-full texlive-collection-latex python-devel
 ```
 
@@ -370,9 +321,7 @@ You may even surprise the attendant with your level of sophistication.
 
 ```Bash
 sudo pacman -Syy # update database
-
 sudo pacman -Syu # update system, always run before installing packages
-
 sudo pacman -S package # install the package package
 ```
 
@@ -380,11 +329,8 @@ Partial list of equivalent packages between Debian- and Arch-based distros (deb 
 
 ```
 gcc = gcc
-
 gfortran = gcc-fortran
-
 g++ = gcc
-
 libx11-dev = libx11
 ```
 
@@ -394,9 +340,7 @@ to be continued when necessary.
 
 ```Bash
 echo "alias cpdir='echo \$(pwd) > \$HOME/.mytmpdir'" >> $HOME/.bashrc
-
 echo "alias cddir='cd \$(cat \$HOME/.mytmpdir)'" >> $HOME/.bashrc
-
 source $HOME/.bashrc
 ```
 
@@ -428,13 +372,9 @@ This is useful for instance when you have a list of student numbers 1234567 line
 
 ```Bash
 for f in *
-
 do
-
-     sed -i 's/^/e/g' $f
-
-     sed -i 's/.$/@metu.edu.tr/g' $f
-
+  sed -i 's/^/e/g' $f
+  sed -i 's/.$/@metu.edu.tr/g' $f
 done
 ```
 
@@ -444,7 +384,6 @@ and you are done.
 
 ```Bash
 chmod a+x todo
-
 ./todo
 ```
 
@@ -504,9 +443,7 @@ That’s it.
 
 ```Bash
 chmod a+x minimal-tex
-
 echo "PATH=$(pwd):\$PATH" >> $HOME/.bashrc
-
 . $HOME/.bashrc
 ```
 
@@ -514,7 +451,6 @@ so that you can run it anywhere on your system. The usage is as follows. (First 
 
 ```Bash
 cd
-
 minimal-tex quick_note
 ```
 
@@ -628,7 +564,6 @@ Source: [cpu - Any way to check the clock speed of my processor? - Ask Ubuntu](h
 
 ```Bash
 N=15
-
 printf "%${N}s\n" | tr " " "="
 ```
 
@@ -680,69 +615,37 @@ A minimal working example can be found [here](https://www.google.com/url?q=https
 
 ```
 \e[0;30m # Black – Regular
-
 \e[0;31m # Red
-
 \e[0;32m # Green
-
 \e[0;33m # Yellow
-
 \e[0;34m # Blue
-
 \e[0;35m # Purple
-
 \e[0;36m # Cyan
-
 \e[0;37m # White
-
 \e[1;30m # Black – Bold
-
 \e[1;31m # Red
-
 \e[1;32m # Green
-
 \e[1;33m # Yellow
-
 \e[1;34m # Blue
-
 \e[1;35m # Purple
-
 \e[1;36m # Cyan
-
 \e[1;37m # White
-
 \e[4;30m # Black – Underline
-
 \e[4;31m # Red
-
 \e[4;32m # Green
-
 \e[4;33m # Yellow
-
 \e[4;34m # Blue
-
 \e[4;35m # Purple
-
 \e[4;36m # Cyan
-
 \e[4;37m # White
-
 \e[40m # Black – Background
-
 \e[41m # Red
-
 \e[42m # Green
-
 \e[43m # Yellow
-
 \e[44m # Blue
-
 \e[45m # Purple
-
 \e[46m # Cyan
-
 \e[47m # White
-
 \e[0m # Text Reset
 ```
 
@@ -762,9 +665,7 @@ Source: [bash - What color codes can I use in my PS1 prompt? - Unix & Linux Stac
 
 ```Bash
 cd /usr/local/Wolfram/Mathematica/11.3/SystemFiles/Libraries/Linux-x86-64
-
 sudo mv libfreetype.so.6 libfreetype.so.6.bak
-
 sudo mv libz.so.1 libz.so.1.bak
 ```
 
@@ -782,11 +683,8 @@ It should return something like /home/username/texmf (which was my case). You ma
 
 ```Bash
 mkdir texmf
-
 mkdir texmf/tex
-
 mkdir texmf/tex/latex
-
 mkdir texmf/tex/latex/local
 ```
 
@@ -804,955 +702,484 @@ vi $HOME/.config/texstudio/texstudio.ini
 
 ```
 [format]
-
 version=1.0
 
-
-
 [texmaker]
+```
 
 (3) Append the following at the third line above.
 
+```
 data\align-ampersand\bold=true
-
 data\align-ampersand\fontFamily=
-
 data\align-ampersand\foreground=#b5d1df
-
 data\align-ampersand\italic=false
-
 data\align-ampersand\overline=false
-
 data\align-ampersand\pointSize=0
-
 data\align-ampersand\priority=-1
-
 data\align-ampersand\strikeout=false
-
 data\align-ampersand\underline=false
-
 data\align-ampersand\waveUnderline=false
-
 data\align-ampersand\wrapAround=false
-
 data\background\background=#26292c
-
 data\background\bold=false
-
 data\background\fontFamily=
-
 data\background\italic=false
-
 data\background\overline=false
-
 data\background\pointSize=0
-
 data\background\priority=-1
-
 data\background\strikeout=false
-
 data\background\underline=false
-
 data\background\waveUnderline=false
-
 data\background\wrapAround=false
-
 data\braceMatch\background=#2b2b2b
-
-data\braceMatch\bold=true
-
+data\braceMatch\bold=tru
 data\braceMatch\fontFamily=
-
 data\braceMatch\foreground=#b5d1df
-
 data\braceMatch\italic=false
-
 data\braceMatch\overline=false
-
 data\braceMatch\pointSize=0
-
 data\braceMatch\priority=-1
-
 data\braceMatch\strikeout=false
-
 data\braceMatch\underline=false
-
 data\braceMatch\waveUnderline=false
-
 data\braceMatch\wrapAround=false
-
 data\braceMismatch\background=#b5d1df
-
 data\braceMismatch\bold=true
-
 data\braceMismatch\fontFamily=
-
 data\braceMismatch\foreground=#2b2b2b
-
 data\braceMismatch\italic=false
-
 data\braceMismatch\overline=false
-
 data\braceMismatch\pointSize=0
-
 data\braceMismatch\priority=-1
-
 data\braceMismatch\strikeout=false
-
 data\braceMismatch\underline=false
-
 data\braceMismatch\waveUnderline=false
-
 data\braceMismatch\wrapAround=false
-
 data\citationMissing\bold=true
-
 data\citationMissing\fontFamily=
-
 data\citationMissing\foreground=#b5d1df
-
 data\citationMissing\italic=false
-
 data\citationMissing\overline=false
-
 data\citationMissing\pointSize=0
-
 data\citationMissing\priority=-1
-
 data\citationMissing\strikeout=false
-
 data\citationMissing\underline=false
-
 data\citationMissing\waveUnderline=true
-
 data\citationMissing\wrapAround=false
-
 data\citationPresent\bold=true
-
 data\citationPresent\fontFamily=
-
 data\citationPresent\foreground=#b5d1df
-
 data\citationPresent\italic=false
-
 data\citationPresent\overline=false
-
 data\citationPresent\pointSize=0
-
 data\citationPresent\priority=-1
-
 data\citationPresent\strikeout=false
-
 data\citationPresent\underline=false
-
 data\citationPresent\waveUnderline=false
-
 data\citationPresent\wrapAround=false
-
 data\comment\bold=false
-
 data\comment\fontFamily=
-
 data\comment\foreground=#767f85
-
 data\comment\italic=false
-
 data\comment\overline=false
-
 data\comment\pointSize=0
-
 data\comment\priority=-1
-
 data\comment\strikeout=false
-
 data\comment\underline=false
-
 data\comment\waveUnderline=false
-
 data\comment\wrapAround=false
-
 data\commentTodo\background=#5f7f5f
-
 data\commentTodo\bold=false
-
 data\commentTodo\fontFamily=
-
 data\commentTodo\foreground=#ffffef
-
 data\commentTodo\italic=false
-
 data\commentTodo\overline=false
-
 data\commentTodo\pointSize=0
-
 data\commentTodo\priority=-1
-
 data\commentTodo\strikeout=false
-
 data\commentTodo\underline=false
-
 data\commentTodo\waveUnderline=false
-
 data\commentTodo\wrapAround=false
-
 data\current\background=#4d4d4d
-
 data\current\bold=false
-
 data\current\fontFamily=
-
 data\current\foreground=#ffffff
-
 data\current\italic=false
-
 data\current\overline=false
-
 data\current\pointSize=0
-
 data\current\priority=-1
-
 data\current\strikeout=false
-
 data\current\underline=false
-
 data\current\waveUnderline=false
-
 data\current\wrapAround=false
-
 data\environment\bold=false
-
 data\environment\fontFamily=
-
 data\environment\foreground=#d88746
-
 data\environment\italic=false
-
 data\environment\overline=false
-
 data\environment\pointSize=0
-
 data\environment\priority=-1
-
 data\environment\strikeout=false
-
 data\environment\underline=false
-
 data\environment\waveUnderline=false
-
 data\environment\wrapAround=false
-
 data\escapeseq\bold=false
-
 data\escapeseq\fontFamily=
-
 data\escapeseq\italic=false
-
 data\escapeseq\overline=false
-
 data\escapeseq\pointSize=0
-
 data\escapeseq\priority=-1
-
 data\escapeseq\strikeout=false
-
 data\escapeseq\underline=false
-
 data\escapeseq\waveUnderline=false
-
 data\escapeseq\wrapAround=false
-
 data\extra-keyword\bold=true
-
 data\extra-keyword\fontFamily=
-
 data\extra-keyword\foreground=#ffb454
-
 data\extra-keyword\italic=false
-
 data\extra-keyword\overline=false
-
 data\extra-keyword\pointSize=0
-
 data\extra-keyword\priority=-1
-
 data\extra-keyword\strikeout=false
-
 data\extra-keyword\underline=false
-
 data\extra-keyword\waveUnderline=false
-
 data\extra-keyword\wrapAround=false
-
 data\grammarMistakeSpecial1\bold=false
-
 data\grammarMistakeSpecial1\fontFamily=
-
 data\grammarMistakeSpecial1\italic=false
-
 data\grammarMistakeSpecial1\overline=false
-
 data\grammarMistakeSpecial1\pointSize=0
-
 data\grammarMistakeSpecial1\priority=-1
-
 data\grammarMistakeSpecial1\strikeout=false
-
 data\grammarMistakeSpecial1\underline=false
-
 data\grammarMistakeSpecial1\waveUnderline=false
-
-data\grammarMistakeSpecial1\wrapAround=false
-
+data\grammarMistakeSpecial1\wrapAround=fale
 data\grammarMistakeSpecial2\bold=false
-
 data\grammarMistakeSpecial2\fontFamily=
-
 data\grammarMistakeSpecial2\italic=false
-
 data\grammarMistakeSpecial2\overline=false
-
 data\grammarMistakeSpecial2\pointSize=0
-
 data\grammarMistakeSpecial2\priority=-1
-
 data\grammarMistakeSpecial2\strikeout=false
-
 data\grammarMistakeSpecial2\underline=false
-
 data\grammarMistakeSpecial2\waveUnderline=false
-
 data\grammarMistakeSpecial2\wrapAround=false
-
 data\grammarMistakeSpecial3\bold=false
-
 data\grammarMistakeSpecial3\fontFamily=
-
 data\grammarMistakeSpecial3\italic=false
-
 data\grammarMistakeSpecial3\overline=false
-
 data\grammarMistakeSpecial3\pointSize=0
-
 data\grammarMistakeSpecial3\priority=-1
-
 data\grammarMistakeSpecial3\strikeout=false
-
 data\grammarMistakeSpecial3\underline=false
-
 data\grammarMistakeSpecial3\waveUnderline=false
-
 data\grammarMistakeSpecial3\wrapAround=false
-
 data\grammarMistakeSpecial4\bold=false
-
 data\grammarMistakeSpecial4\fontFamily=
-
 data\grammarMistakeSpecial4\italic=false
-
 data\grammarMistakeSpecial4\overline=false
-
 data\grammarMistakeSpecial4\pointSize=0
-
 data\grammarMistakeSpecial4\priority=-1
-
 data\grammarMistakeSpecial4\strikeout=false
-
 data\grammarMistakeSpecial4\underline=false
-
 data\grammarMistakeSpecial4\waveUnderline=false
-
 data\grammarMistakeSpecial4\wrapAround=false
-
 data\keyword\bold=true
-
 data\keyword\fontFamily=
-
 data\keyword\foreground=#d88746
-
 data\keyword\italic=false
-
 data\keyword\overline=false
-
 data\keyword\pointSize=0
-
 data\keyword\priority=-1
-
 data\keyword\strikeout=false
-
 data\keyword\underline=false
-
 data\keyword\waveUnderline=false
-
 data\keyword\wrapAround=false
-
 data\latexSyntaxMistake\bold=false
-
 data\latexSyntaxMistake\fontFamily=
-
 data\latexSyntaxMistake\italic=false
-
 data\latexSyntaxMistake\linescolor=#dfaf8f
-
 data\latexSyntaxMistake\overline=false
-
 data\latexSyntaxMistake\pointSize=0
-
 data\latexSyntaxMistake\priority=-1
-
 data\latexSyntaxMistake\strikeout=false
-
 data\latexSyntaxMistake\underline=false
-
 data\latexSyntaxMistake\waveUnderline=false
-
 data\latexSyntaxMistake\wrapAround=false
-
 data\line%3Abadbox\background=#767f85
-
 data\line%3Abadbox\bold=false
-
 data\line%3Abadbox\fontFamily=
-
 data\line%3Abadbox\italic=false
-
 data\line%3Abadbox\overline=false
-
 data\line%3Abadbox\pointSize=0
-
 data\line%3Abadbox\priority=-1
-
 data\line%3Abadbox\strikeout=false
-
 data\line%3Abadbox\underline=false
-
 data\line%3Abadbox\waveUnderline=false
-
 data\line%3Abadbox\wrapAround=false
-
 data\line%3Aerror\background=#767f85
-
 data\line%3Aerror\bold=true
-
 data\line%3Aerror\fontFamily=
-
 data\line%3Aerror\italic=true
-
 data\line%3Aerror\overline=false
-
 data\line%3Aerror\pointSize=0
-
 data\line%3Aerror\priority=-1
-
 data\line%3Aerror\strikeout=false
-
 data\line%3Aerror\underline=false
-
 data\line%3Aerror\waveUnderline=false
-
 data\line%3Aerror\wrapAround=false
-
 data\line%3Awarning\background=#767f85
-
 data\line%3Awarning\bold=true
-
 data\line%3Awarning\fontFamily=
-
 data\line%3Awarning\italic=true
-
 data\line%3Awarning\overline=false
-
 data\line%3Awarning\pointSize=0
-
 data\line%3Awarning\priority=-1
-
 data\line%3Awarning\strikeout=false
-
 data\line%3Awarning\underline=false
-
 data\line%3Awarning\waveUnderline=false
-
 data\line%3Awarning\wrapAround=false
-
 data\link\bold=false
-
 data\link\fontFamily=
-
 data\link\italic=false
-
 data\link\overline=false
-
 data\link\pointSize=0
-
 data\link\priority=-1
-
 data\link\strikeout=false
-
 data\link\underline=true
-
 data\link\waveUnderline=false
-
 data\link\wrapAround=false
-
 data\magicComment\bold=false
-
 data\magicComment\fontFamily=
-
 data\magicComment\foreground=#9fabb0
-
 data\magicComment\italic=false
-
 data\magicComment\overline=false
-
 data\magicComment\pointSize=0
-
 data\magicComment\priority=-1
-
 data\magicComment\strikeout=false
-
 data\magicComment\underline=false
-
 data\magicComment\waveUnderline=false
-
 data\magicComment\wrapAround=false
-
 data\math-delimiter\bold=true
-
 data\math-delimiter\fontFamily=
-
 data\math-delimiter\foreground=#72aaca
-
 data\math-delimiter\italic=false
-
 data\math-delimiter\overline=false
-
 data\math-delimiter\pointSize=0
-
 data\math-delimiter\priority=-1
-
 data\math-delimiter\strikeout=false
-
 data\math-delimiter\underline=false
-
 data\math-delimiter\waveUnderline=false
-
 data\math-delimiter\wrapAround=false
-
 data\math-keyword\bold=true
-
 data\math-keyword\fontFamily=
-
 data\math-keyword\foreground=#b7d877
-
 data\math-keyword\italic=false
-
 data\math-keyword\overline=false
-
 data\math-keyword\pointSize=0
-
 data\math-keyword\priority=-1
-
 data\math-keyword\strikeout=false
-
 data\math-keyword\underline=false
-
 data\math-keyword\waveUnderline=false
-
 data\math-keyword\wrapAround=false
-
 data\normal\bold=false
-
 data\normal\fontFamily=
-
 data\normal\foreground=#eaeaea
-
 data\normal\italic=false
-
 data\normal\overline=false
-
 data\normal\pointSize=0
-
 data\normal\priority=-1
-
 data\normal\strikeout=false
-
 data\normal\underline=false
-
 data\normal\waveUnderline=false
-
 data\normal\wrapAround=false
-
 data\numbers\bold=false
-
 data\numbers\fontFamily=
-
 data\numbers\foreground=#b7d877
-
 data\numbers\italic=false
-
 data\numbers\overline=false
-
 data\numbers\pointSize=0
-
 data\numbers\priority=-1
-
 data\numbers\strikeout=false
-
 data\numbers\underline=false
-
 data\numbers\waveUnderline=false
-
 data\numbers\wrapAround=false
-
 data\packageMissing\bold=false
-
 data\packageMissing\fontFamily=
-
 data\packageMissing\foreground=#b5d1df
-
 data\packageMissing\italic=false
-
 data\packageMissing\overline=false
-
 data\packageMissing\pointSize=0
-
 data\packageMissing\priority=-1
-
 data\packageMissing\strikeout=false
-
 data\packageMissing\underline=false
-
 data\packageMissing\waveUnderline=true
-
 data\packageMissing\wrapAround=false
-
 data\packagePresent\bold=false
-
 data\packagePresent\fontFamily=
-
 data\packagePresent\foreground=#b5d1df
-
 data\packagePresent\italic=false
-
 data\packagePresent\overline=false
-
 data\packagePresent\pointSize=0
-
 data\packagePresent\priority=-1
-
 data\packagePresent\strikeout=false
-
 data\packagePresent\underline=false
-
 data\packagePresent\waveUnderline=false
-
 data\packagePresent\wrapAround=false
-
 data\picture-keyword\bold=false
-
 data\picture-keyword\fontFamily=
-
 data\picture-keyword\foreground=#ffb454
-
 data\picture-keyword\italic=false
-
 data\picture-keyword\overline=false
-
 data\picture-keyword\pointSize=0
-
 data\picture-keyword\priority=-1
-
 data\picture-keyword\strikeout=false
-
 data\picture-keyword\underline=false
-
 data\picture-keyword\waveUnderline=false
-
 data\picture-keyword\wrapAround=false
-
 data\picture\bold=false
-
 data\picture\fontFamily=
-
 data\picture\foreground=#ece8c4
-
 data\picture\italic=false
-
 data\picture\overline=false
-
 data\picture\pointSize=0
-
 data\picture\priority=-1
-
 data\picture\strikeout=false
-
 data\picture\underline=false
-
 data\picture\waveUnderline=false
-
 data\picture\wrapAround=false
-
 data\previewSelection\background=#aaffaa
-
 data\previewSelection\bold=false
-
 data\previewSelection\fontFamily=
-
 data\previewSelection\italic=false
-
 data\previewSelection\overline=false
-
 data\previewSelection\pointSize=0
-
 data\previewSelection\priority=-1
-
 data\previewSelection\strikeout=false
-
 data\previewSelection\underline=false
-
 data\previewSelection\waveUnderline=false
-
 data\previewSelection\wrapAround=true
-
 data\referenceMissing\bold=false
-
 data\referenceMissing\fontFamily=
-
 data\referenceMissing\foreground=#b5d1df
-
 data\referenceMissing\italic=false
-
 data\referenceMissing\overline=false
-
 data\referenceMissing\pointSize=0
-
 data\referenceMissing\priority=-1
-
 data\referenceMissing\strikeout=false
-
 data\referenceMissing\underline=false
-
 data\referenceMissing\waveUnderline=true
-
 data\referenceMissing\wrapAround=false
-
 data\referenceMultiple\bold=false
-
 data\referenceMultiple\fontFamily=
-
 data\referenceMultiple\foreground=#40677f
-
 data\referenceMultiple\italic=false
-
 data\referenceMultiple\overline=false
-
 data\referenceMultiple\pointSize=0
-
 data\referenceMultiple\priority=-1
-
 data\referenceMultiple\strikeout=false
-
 data\referenceMultiple\underline=false
-
 data\referenceMultiple\waveUnderline=true
-
 data\referenceMultiple\wrapAround=false
-
 data\referencePresent\bold=true
-
 data\referencePresent\fontFamily=
-
 data\referencePresent\foreground=#b5d1df
-
 data\referencePresent\italic=false
-
 data\referencePresent\overline=false
-
 data\referencePresent\pointSize=0
-
 data\referencePresent\priority=-1
-
 data\referencePresent\strikeout=false
-
 data\referencePresent\underline=false
-
 data\referencePresent\waveUnderline=false
-
 data\referencePresent\wrapAround=false
-
 data\search\background=#ffb454
-
 data\search\bold=false
-
 data\search\fontFamily=
-
 data\search\foreground=#000000
-
 data\search\italic=false
-
 data\search\overline=false
-
 data\search\pointSize=0
-
 data\search\priority=-1
-
 data\search\strikeout=false
-
 data\search\underline=false
-
 data\search\waveUnderline=false
-
 data\search\wrapAround=false
-
 data\spellingMistake\bold=false
-
 data\spellingMistake\fontFamily=
-
 data\spellingMistake\italic=false
-
 data\spellingMistake\linescolor=#dfaf8f
-
 data\spellingMistake\overline=false
-
 data\spellingMistake\pointSize=0
-
 data\spellingMistake\priority=-1
-
 data\spellingMistake\strikeout=false
-
 data\spellingMistake\underline=false
-
 data\spellingMistake\waveUnderline=true
-
 data\spellingMistake\wrapAround=false
-
 data\structure\bold=true
-
 data\structure\fontFamily=
-
 data\structure\foreground=#72aaca
-
 data\structure\italic=false
-
 data\structure\overline=false
-
 data\structure\pointSize=0
-
 data\structure\priority=-1
-
 data\structure\strikeout=false
-
 data\structure\underline=false
-
 data\structure\waveUnderline=false
-
 data\structure\wrapAround=false
-
 data\temporaryCodeCompletion\bold=false
-
 data\temporaryCodeCompletion\fontFamily=
-
 data\temporaryCodeCompletion\foreground=#94af64
-
 data\temporaryCodeCompletion\italic=true
-
 data\temporaryCodeCompletion\overline=false
-
 data\temporaryCodeCompletion\pointSize=0
-
 data\temporaryCodeCompletion\priority=-1
-
 data\temporaryCodeCompletion\strikeout=false
-
 data\temporaryCodeCompletion\underline=false
-
 data\temporaryCodeCompletion\waveUnderline=false
-
 data\temporaryCodeCompletion\wrapAround=false
-
 data\text\bold=false
-
 data\text\fontFamily=
-
 data\text\foreground=#b7d877
-
 data\text\italic=false
-
 data\text\overline=false
-
 data\text\pointSize=0
-
 data\text\priority=-1
-
 data\text\strikeout=false
-
 data\text\underline=false
-
 data\text\waveUnderline=false
-
 data\text\wrapAround=false
-
 data\verbatim\bold=false
-
 data\verbatim\fontFamily=
-
 data\verbatim\italic=false
-
 data\verbatim\overline=false
-
 data\verbatim\pointSize=0
-
 data\verbatim\priority=-1
-
 data\verbatim\strikeout=false
-
 data\verbatim\underline=false
-
 data\verbatim\waveUnderline=false
-
 data\verbatim\wrapAround=false
-
 data\wordRepetition\bold=false
-
 data\wordRepetition\fontFamily=
-
 data\wordRepetition\italic=false
-
 data\wordRepetition\linescolor=#dc8cc3
-
 data\wordRepetition\overline=false
-
 data\wordRepetition\pointSize=0
-
 data\wordRepetition\priority=-1
-
 data\wordRepetition\strikeout=false
-
 data\wordRepetition\underline=false
-
 data\wordRepetition\waveUnderline=true
-
 data\wordRepetition\wrapAround=false
-
 data\wordRepetitionLongRange\bold=false
-
 data\wordRepetitionLongRange\fontFamily=
-
 data\wordRepetitionLongRange\italic=false
-
 data\wordRepetitionLongRange\linescolor=#dc8cc3
-
 data\wordRepetitionLongRange\overline=false
-
 data\wordRepetitionLongRange\pointSize=0
-
 data\wordRepetitionLongRange\priority=-1
-
 data\wordRepetitionLongRange\strikeout=false
-
 data\wordRepetitionLongRange\underline=false
-
 data\wordRepetitionLongRange\waveUnderline=true
-
 data\wordRepetitionLongRange\wrapAround=false
 ```
 

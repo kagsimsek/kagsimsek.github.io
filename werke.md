@@ -30,6 +30,8 @@
 
 **Seminars and talks**
 
+[6] K. Şimşek, [_SMEFT projections of neutral-current PVDIS asymmetries at the EIC_](./files/docs/seminars-006-20220725-eic-early-career-workshop-smeft_projections_of_nc_pvdis_asymmetries_at_the_eic.pdf), invited talk given at EIC Early Career Workshop, July 25, 2022.
+
 [5] K. Şimşek, [_SMEFT projections using EIC PVDIS asymmetries_](./files/docs/seminars-005-20220627-int-workshop-smeft_projections_using_eic_pvdis_asymmetries.pdf), invited seminar given at INT Workshop: Parity-Violation and other Electroweak Physics at JLab 12 GeV and Beyond, June 27, 2022.
 
 [4] K. Şimşek, [_Neutral-current SMEFT studies at the EIC_](./files/docs/seminars-004-20220621-cfns-workshop-hl-eic-neutral_current_smeft_studies_at_the_eic.pdf), invited seminar given at CFNS Workshop: High-Luminosity EIC (EIC Phase II), June 21, 2022.

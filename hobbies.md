@@ -25,6 +25,9 @@ Painting:
 7. Piece VII
 ![](./files/img/painting/007.jpg)
 
+8. Piece VIII
+![](./files/img/painting/008.jpg)
+
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
 
 Follow me on [GitHub](https://github.com/kagsimsek).

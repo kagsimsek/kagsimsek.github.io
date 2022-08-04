@@ -19,14 +19,14 @@ ksimsek[at]u[dot]northwestern[dot]edu
 \[[__Hobbies__](https://kagsimsek.github.io/hobbies)\]
 \[[__Writing Instruments__](https://kagsimsek.github.io/writing_instruments)\]
 
-<div style="text-align: right"> 
+<div style="text-align: right">
   <i>
     put me inside SSC <br>
     let's test superstring theory <br>
     oh yoi yoi accelerate the protons <br>
     stir it twice and then just add me <br>
     <br>
-    -e. hutz et al. <br>
+    -e. hutz et al. <br><br><br>
   </i>
 </div>
 

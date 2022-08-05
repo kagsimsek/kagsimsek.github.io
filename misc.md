@@ -56,6 +56,8 @@ _That bird has no idea what he's looking at, and yet, what does the bird do? Doe
 
 _An idiot admires complexity, while a genius admires simplicity._ -Terry A. Davis
 
+_As you begin your journey into understanding the meaning of life, the first thing that you have to take into consideration is that there have been billions and billions of people who have lived on the earth and a whole bunch of them were a lot smarter than you are and they didn't figure it out, either. So, good luck with that._ -Rodney Normal
+
 * Quantum-mechanical harmonic oscillator: Copy the following into a Mathematica notebook and evaluate it. WF[n] will produce you the normalized nth eigenfunction of the oscillator.
 
 ```Mathematica

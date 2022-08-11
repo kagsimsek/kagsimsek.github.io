@@ -8,17 +8,17 @@ Below is the list of the courses I have assisted so far. The course materials wi
 
 - Undergrad level
 
-Phys 105-106 General Physics I & II Laboratory (2016 Fall, Spring; 2017 Fall, Spring, Summer; 2018 Fall, Spring)
+Phys 105, 106 General Physics I & II Laboratory (2016 Fall, Spring; 2017 Fall, Spring, Summer; 2018 Fall, Spring)
 
 Phys 207 Concepts of Modern Physics (2017 Fall)
 
-Phys 407-408 Particle Physics I & II (2017 Fall, Spring; 2018 Spring)
+Phys 407, 408 Particle Physics I & II (2017 Fall, Spring; 2018 Spring)
 
 - Graduate level
 
-Phys 507-508 Quantum Mechanics I & II (2017 Fall, Spring; 2018 Fall, Spring)
+Phys 507, 508 Quantum Mechanics I & II (2017 Fall, Spring; 2018 Fall, Spring)
 
-Phys 545-546 Particle Physics I & II (2018 Fall, Spring)
+Phys 545, 546 Particle Physics I & II (2018 Fall, Spring)
 
 
 
@@ -26,13 +26,13 @@ Phys 545-546 Particle Physics I & II (2018 Fall, Spring)
 
 - Undergrad level
 
-Phy 113-114 General Physics I & II Laboratory (2019 Fall, Summer)
+Phy 113, 114 General Physics I & II Laboratory (2019 Fall, Summer)
 
 . . .[113 lab manual using iOLab](./files/docs/iolab_man_mechanics_113_121.pdf)
 
 . . .[114 lab manual using iOLab](./files/docs/iolab_man_mechanics_114_122.pdf)
 
-Phy 121-122 Mechanics & Electromagnetism Laboratory (2019 Fall, Summer)
+Phy 121, 122 Mechanics & Electromagnetism Laboratory (2019 Fall, Summer)
 
 . . .[121 lab manual using iOLab](./files/docs/iolab_man_mechanics_113_121.pdf)
 
@@ -68,4 +68,6 @@ Physics 125-1 General Physics ISP (2021 Fall)
 
 . . .[Discussion problems 6](./files/docs/2021_fall_physics125-1_discussion_06_nov12.pdf)
 
-Physics 130-1 College Physics (2022 Spring)
+Physics 130-3 College Physics (2022 Spring)
+
+Physics 135-2,3 General Physics (2022 Summer)

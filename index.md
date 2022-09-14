@@ -10,14 +10,15 @@ evanston, il 60208, usa
 
 ksimsek[at]u[dot]northwestern[dot]edu
 
-\[[__About__](https://kagsimsek.github.io/about)\]
-\[[__Misc__](https://kagsimsek.github.io/misc)\]
-\[[__Tutorials__](https://kagsimsek.github.io/tutorials)\]
-\[[__Werke__](https://kagsimsek.github.io/werke)\]
-\[[__Teaching__](https://kagsimsek.github.io/teaching)\]
-\[[__SUSE Installation__](https://kagsimsek.github.io/SUSE_installation)\]
-\[[__Hobbies__](https://kagsimsek.github.io/hobbies)\]
-\[[__Writing Instruments__](https://kagsimsek.github.io/writing_instruments)\]
+\[[__about__](https://kagsimsek.github.io/about)\]
+\[[__misc__](https://kagsimsek.github.io/misc)\]
+\[[__tutorials__](https://kagsimsek.github.io/tutorials)\]
+\[[__werke__](https://kagsimsek.github.io/werke)\]
+\[[__teaching__](https://kagsimsek.github.io/teaching)\]
+\[[__suse installation__](https://kagsimsek.github.io/SUSE_installation)\]
+\[[__hobbies__](https://kagsimsek.github.io/hobbies)\]
+\[[__writing instruments__](https://kagsimsek.github.io/writing_instruments)\]
+
 
 <div style="text-align: right">
   <i>
@@ -29,5 +30,9 @@ ksimsek[at]u[dot]northwestern[dot]edu
     -e. hutz et al. <br><br><br>
   </i>
 </div>
+
+
+![](./files/img/rodney_6ft.jpg)
+
 
 january 2022 -- present

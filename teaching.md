@@ -18,6 +18,8 @@ Phys 407, 408 Particle Physics I & II (2017 Fall, Spring; 2018 Spring)
 
 Phys 507, 508 Quantum Mechanics I & II (2017 Fall, Spring; 2018 Fall, Spring)
 
+. . .[Quantum notes](./files/teaching/507_problems.pdf)
+
 Phys 545, 546 Particle Physics I & II (2018 Fall, Spring)
 
 
@@ -71,3 +73,9 @@ Physics 125-1 General Physics ISP (2021 Fall)
 Physics 130-3 College Physics (2022 Spring)
 
 Physics 135-2,3 General Physics (2022 Summer)
+
+. . .[Some notes](./files/teaching/135-2_notes_1.pdf)
+
+. . .[Some notes](./files/teaching/135-3_notes_1.pdf)
+
+. . .[Introduction to Mathematica](./files/teaching/intro_to_mma.zip)

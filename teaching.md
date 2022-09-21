@@ -79,3 +79,8 @@ Physics 135-2,3 General Physics (2022 Summer)
 . . .[Some notes](./files/teaching/135-3_notes_1.pdf)
 
 . . .[Introduction to Mathematica](./files/teaching/intro_to_mma.zip)
+
+Physics 412-1 Quantum Mechanics (2022 Fall)
+
+. . .[TA introduction](./files/docs/2022_fall_physics412-1_ta_introduction.pdf)
+

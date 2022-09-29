@@ -84,3 +84,4 @@ Physics 412-1 Quantum Mechanics (2022 Fall)
 
 . . .[TA introduction](./files/docs/2022_fall_physics412-1_ta_introduction.pdf)
 
+. . .[TA notes](./files/teaching/2022_Fall_Phys_412_1_Quantum_Mechanics.pdf)

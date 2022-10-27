@@ -4,9 +4,11 @@
 
 **Theses**
 
-[2] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/index.pdf), Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
+[3] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/index.pdf), Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019.
 
-[1] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
+[2] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017.
+
+[1] K. Şimşek _et al._, _Redesign of METU pedestrian bridge_, Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 3, 2016.
 
 **Papers**
 

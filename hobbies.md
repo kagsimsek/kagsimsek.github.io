@@ -16,6 +16,8 @@ Compositions:
 
 [Op. 3 "Valses for M" No. 3](https://youtu.be/-hoTo_rcclw)
 
+[Op. 3 "Valses for M" No. 4](https://youtu.be/Yt47mBAHQyk)
+
 Painting:
 
 1. Piece I

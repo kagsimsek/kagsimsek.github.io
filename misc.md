@@ -66,6 +66,8 @@ _All art is, somebody takes something and then puts it on something else._ -Rodn
 
 _I believe in myself._ -Noel Gallagher (when asked if he believes in god)
 
+_She reminded me of me at her age... I mean when i was her age, she reminded me of her age... She reminded me of my age, at her age... When i was her age, she was reminded of me?_ -The IT Crowd, S01E05
+
 * Quantum-mechanical harmonic oscillator: Copy the following into a Mathematica notebook and evaluate it. WF[n] will produce you the normalized nth eigenfunction of the oscillator.
 
 ```Mathematica

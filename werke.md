@@ -32,7 +32,7 @@
 
 **Seminars and talks**
 
-[7] K. Şimşek, [_SMEFT projections at the EIC_and_LHeC_to_NLO_QCD_](./files/docs/seminars-007-20221202-phd-candidacy.pdf), PhD Candidacy talk, December 2, 2022.
+[7] K. Şimşek, [_SMEFT projections at the EIC and LHeC to NLO QCD_](./files/docs/seminars-007-20221202-phd-candidacy.pdf), PhD Candidacy talk, December 2, 2022.
 
 [6] K. Şimşek, [_SMEFT projections of neutral-current PVDIS asymmetries at the EIC_](./files/docs/seminars-006-20220725-eic-early-career-workshop-smeft_projections_of_nc_pvdis_asymmetries_at_the_eic.pdf), invited talk given at EIC Early Career Workshop, July 25, 2022.
 

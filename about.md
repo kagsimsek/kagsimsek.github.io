@@ -4,7 +4,7 @@
 
 **Education**
 
-Physics PhD student, Northwestern University, Evanston, IL, 2020 -- present
+Physics PhD candidate, Northwestern University, Evanston, IL, 2020 -- present
 
 Physics PhD student, University of Rochester, Rochester, NY, 2019 -- 2020
 

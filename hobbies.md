@@ -18,6 +18,8 @@ Compositions:
 
 [Op. 3 "Valses for M" No. 4](https://youtu.be/Yt47mBAHQyk)
 
+[Op. 4 "Sleep without Pillow: Magic" No. 1](https://www.youtube.com/watch?v=6XftrKJT4PI)
+
 Painting:
 
 1. Piece I

@@ -19,5 +19,12 @@ ksimsek[at]u[dot]northwestern[dot]edu
 \[[__hobbies__](https://kagsimsek.github.io/hobbies)\]
 \[[__writing instruments__](https://kagsimsek.github.io/writing_instruments)\]
 
+\ 
+\ 
+\ 
+<img src="./files/img/cat.jpeg" alt="cat" width="200"/>
+\ 
+\ 
+\ 
 
 february 2018 -- present

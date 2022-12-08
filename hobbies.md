@@ -18,11 +18,11 @@ Compositions:
 
 [Op. 3 "Valses for M" No. 4](https://youtu.be/Yt47mBAHQyk)
 
-[Op. 4 "Sleep without Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA)
+[Op. 4 "Sleep without a Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA)
 
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
 
-Follow me on [Soundcloud](https://soundcloud.com/kagsimsek).
+Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).
 
 Painting:
 

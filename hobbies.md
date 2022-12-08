@@ -20,6 +20,10 @@ Compositions:
 
 [Op. 4 "Sleep without Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA)
 
+Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
+
+Follow me on [Soundcloud](https://soundcloud.com/kagsimsek).
+
 Painting:
 
 1. Piece I
@@ -45,8 +49,6 @@ Painting:
 
 8. Piece VIII
 ![](./files/img/painting/008.jpg)
-
-Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
 
 Follow me on [GitHub](https://github.com/kagsimsek).
 

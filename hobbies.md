@@ -6,9 +6,9 @@ Compositions:
 
 [Op. 1 "Preludes" No. 1](https://youtu.be/-ZByj-huV6g)
 
-[Op. 2 "Ilk Sarkilar" No. 1](https://youtu.be/gq1tjsipeEs)
+[Op. 2 "First Songs" No. 1](https://youtu.be/gq1tjsipeEs)
 
-[Op. 2 "Ilk Sarkilar" No. 2](https://youtu.be/t15oFLvqEhk)
+[Op. 2 "First Songs" No. 2](https://youtu.be/t15oFLvqEhk)
 
 [Op. 3 "Valses for M" No. 1](https://youtu.be/dFOjV-_9hEY)
 

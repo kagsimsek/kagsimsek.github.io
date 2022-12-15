@@ -20,7 +20,7 @@ Compositions:
 
 [Op. 4 "Sleep without a Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA)
 
-[Op. 4 "Sleep without a Pillow" No. 1 "Ad Infinitum"](https://youtu.be/dONMrNXWIv4)
+[Op. 4 "Sleep without a Pillow" No. 1 "Ad Infinitum"](https://youtu.be/8xjI1-Kbe54)
 
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
 

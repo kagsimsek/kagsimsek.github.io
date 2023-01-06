@@ -23,8 +23,8 @@ How to find me on the web:
 [ORCID](https://orcid.org/
 0000-0003-1741-8908), [arXiv](https://arxiv.org/a/simsek_k_1.html), [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20K.Simsek.2), [Google Scholar](https://scholar.google.com/citations?hl=en&user=XZGHBbcAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek)
 
-Courses I’m assisting this semester (2022 Fall):
+Courses I’m assisting this semester (2022 Winter):
 
-Physics 412-1 Quantum Mechanics
+None
 
 My most recent CV can be found [here](./files/cv/ksimsek_cv_en.pdf).

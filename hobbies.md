@@ -22,6 +22,8 @@ Compositions:
 
 [Op. 4 "Sleep without a Pillow" No. 2 "Ad Infinitum"](https://youtu.be/8xjI1-Kbe54)
 
+[Op. 4 "Sleep without a Pillow" No. 3 "Gnawn"](https://youtu.be/Jyh-Q-hpT4Y)
+
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
 
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).

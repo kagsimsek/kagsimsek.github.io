@@ -27,9 +27,4 @@ ksimsek[at]u[dot]northwestern[dot]edu
 
 
 
-<img src="./files/img/nye.png" alt="nye" width="400"/>
-
-
-
-
 february 2018 -- present

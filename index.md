@@ -1,4 +1,4 @@
-kağan şimşek
+kaan şimşek
 
 contact:
 

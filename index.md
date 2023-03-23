@@ -22,7 +22,15 @@ ksimsek[at]u[dot]northwestern[dot]edu
 
 
 
+
 <img src="./files/img/cat.jpeg" alt="cat" width="350"/>
+
+
+
+
+
+<img src="./files/img/mathmeme.jpg" alt="mathmeme" width="350"/>
+
 
 
 

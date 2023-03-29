@@ -1,15 +1,14 @@
+_mostly academic, strong opponent of capitalization_
+
 kaan şimşek
 
 <img src="./files/img/IMG_0854.jpg" alt="my own self" width="150"/>
 
-contact:
+workplace:
 
 department of physics & astronomy
-
 northwestern university
-
 evanston, il 60208, usa
-
 ksimsek[at]u[dot]northwestern[dot]edu
 
 \[[__about__](https://kagsimsek.github.io/about)\]

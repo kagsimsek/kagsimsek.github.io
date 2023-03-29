@@ -1,9 +1,8 @@
-_mostly academic_
+_...mostly academic._
 
 kaan şimşek <br>
-_strong opponent of capitalization_
 
-<img src="./files/img/IMG_0854.jpg" alt="my own self" width="150"/>
+<img src="./files/img/my_own_self.png" alt="my own self" width="150"/>
 
 workplace:
 

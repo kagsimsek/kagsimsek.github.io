@@ -1,15 +1,16 @@
-_mostly academic, strong opponent of capitalization_
+_mostly academic_
 
-kaan şimşek
+kaan şimşek <br>
+_strong opponent of capitalization_
 
 <img src="./files/img/IMG_0854.jpg" alt="my own self" width="150"/>
 
 workplace:
 
-department of physics & astronomy
-northwestern university
-evanston, il 60208, usa
-ksimsek[at]u[dot]northwestern[dot]edu
+department of physics & astronomy <br>
+northwestern university <br>
+evanston, il 60208, usa <br>
+ksimsek[at]u[dot]northwestern[dot]edu <br>
 
 \[[__about__](https://kagsimsek.github.io/about)\]
 \[[__misc__](https://kagsimsek.github.io/misc)\]

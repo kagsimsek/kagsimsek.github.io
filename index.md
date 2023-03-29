@@ -1,5 +1,7 @@
 kaan şimşek
 
+<img src="./files/img/IMG_0854.jpg" alt="my own self" width="150"/>
+
 contact:
 
 department of physics & astronomy

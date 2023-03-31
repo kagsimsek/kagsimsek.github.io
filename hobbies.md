@@ -4,30 +4,19 @@
 
 Compositions:
 
-[Op. 1 "Preludes" No. 1](https://youtu.be/-ZByj-huV6g)
+[Op. 1 "Preludes" No. 1](https://youtu.be/-ZByj-huV6g) <br>
+[Op. 2 "First Songs" No. 1](https://youtu.be/gq1tjsipeEs) <br>
+[Op. 2 "First Songs" No. 2](https://youtu.be/t15oFLvqEhk) <br>
+[Op. 3 "Valses for M" No. 1](https://youtu.be/dFOjV-_9hEY) <br>
+[Op. 3 "Valses for M" No. 2](https://youtu.be/SUrrblUNAP0) <br>
+[Op. 3 "Valses for M" No. 3](https://youtu.be/-hoTo_rcclw) <br>
+[Op. 3 "Valses for M" No. 4](https://youtu.be/Yt47mBAHQyk) <br>
+[Op. 4 "Sleep without a Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA) <br>
+[Op. 4 "Sleep without a Pillow" No. 2 "Ad Infinitum"](https://youtu.be/8xjI1-Kbe54) <br>
+[Op. 4 "Sleep without a Pillow" No. 3 "Gnawn"](https://youtu.be/Jyh-Q-hpT4Y) <br>
+[Op. 4 "Sleep without a Pillow" No. 4 "Gemütlichkeit"](https://youtu.be/p_JRFiuU0MM) <br>
 
-[Op. 2 "First Songs" No. 1](https://youtu.be/gq1tjsipeEs)
-
-[Op. 2 "First Songs" No. 2](https://youtu.be/t15oFLvqEhk)
-
-[Op. 3 "Valses for M" No. 1](https://youtu.be/dFOjV-_9hEY)
-
-[Op. 3 "Valses for M" No. 2](https://youtu.be/SUrrblUNAP0)
-
-[Op. 3 "Valses for M" No. 3](https://youtu.be/-hoTo_rcclw)
-
-[Op. 3 "Valses for M" No. 4](https://youtu.be/Yt47mBAHQyk)
-
-[Op. 4 "Sleep without a Pillow" No. 1 "Magic"](https://youtu.be/8MHF4ypmXWA)
-
-[Op. 4 "Sleep without a Pillow" No. 2 "Ad Infinitum"](https://youtu.be/8xjI1-Kbe54)
-
-[Op. 4 "Sleep without a Pillow" No. 3 "Gnawn"](https://youtu.be/Jyh-Q-hpT4Y)
-
-[Op. 4 "Sleep without a Pillow" No. 4 "Gemütlichkeit"](https://youtu.be/p_JRFiuU0MM)
-
-Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ).
-
+Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).
 
 Painting:
@@ -56,6 +45,5 @@ Painting:
 8. Piece VIII
 ![](./files/img/painting/008.jpg)
 
-Follow me on [GitHub](https://github.com/kagsimsek).
-
+Follow me on [GitHub](https://github.com/kagsimsek). <br>
 Let's [play chess](https://lichess.org/@/heppier).

@@ -46,4 +46,5 @@ Physics 135-2,3 General Physics (2022 Summer) <br>
 Physics 412-1 Quantum Mechanics (2022 Fall) <br>
 . . .[TA introduction](./files/docs/2022_fall_physics412-1_ta_introduction.pdf) <br>
 . . .[TA notes](./files/teaching/2022_Fall_Phys_412_1_Quantum_Mechanics.pdf) <br>
-Physics 412-3 Quantum Mechanics (2023 Spring)
+Physics 412-3 Quantum Mechanics (2023 Spring) <br>
+. . .[TA introduction](./files/teaching/2023_spring_physics412-3_ta_introduction.pdf) <br>

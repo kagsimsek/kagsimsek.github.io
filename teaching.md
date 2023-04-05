@@ -48,3 +48,4 @@ Physics 412-1 Quantum Mechanics (2022 Fall) <br>
 . . .[TA notes](./files/teaching/2022_Fall_Phys_412_1_Quantum_Mechanics.pdf) <br>
 Physics 412-3 Quantum Mechanics (2023 Spring) <br>
 . . .[TA introduction](./files/teaching/2023_spring_physics412-3_ta_introduction.pdf) <br>
+. . .[TA notes](./files/teaching/2023_Spring_Phys_412_3_Quantum_Mechanics.pdf) <br>

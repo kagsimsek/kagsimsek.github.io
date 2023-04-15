@@ -22,6 +22,7 @@
 
 **Upcoming seminars and talks**
 
+[10] K. Şimşek, [_Precision electroweak measurements and SMEFT studies at the EIC_](), talk at Phenomenology 2023 Symposium, University of Pittsburgh, Pittsburgh, PA, May X, 2023. <br>
 [9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>
 
 **Seminars and talks**

@@ -97,7 +97,7 @@ _i mean, this huge world of ours._ <br>
 _this earth will cool down one day,_ <br>
 _not even like a pile of ice_ <br>
 _or like a dead cloud._ <br>
-_it will roll like an empty walnut _ <br>
+_it will roll like an empty walnut_ <br>
 _in the pure, endless darkness._ <br>
  <br>
 _you must feel the pain of this now,_ <br>

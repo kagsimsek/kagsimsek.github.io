@@ -37,73 +37,73 @@ ksimsek[at]u[dot]northwestern[dot]edu <br>
  <br>
  <br>
 _on living_ <br>
+ <br> 
+Living is no laughing matter: <br>
+	you must live with great seriousness <br>
+		like a squirrel, for example— <br>
+   I mean without looking for something beyond and above living, <br>
+		I mean living must be your whole occupation. <br>
+Living is no laughing matter: <br>
+	you must take it seriously, <br>
+	so much so and to such a degree <br>
+   that, for example, your hands tied behind your back, <br>
+                                            your back to the wall, <br>
+   or else in a laboratory <br>
+	in your white coat and safety glasses, <br>
+	you can die for people— <br>
+   even for people whose faces you’ve never seen, <br>
+   even though you know living <br>
+	is the most real, the most beautiful thing. <br>
+I mean, you must take living so seriously <br>
+   that even at seventy, for example, you’ll plant olive trees— <br>
+   and not for your children, either, <br>
+   but because although you fear death you don’t believe it, <br>
+   because living, I mean, weighs heavier. <br>
  <br>
-_living is no joke,_ <br>
-_you must live with great seriousness_ <br>
-_like a squirrel for example,_ <br>
-_i mean, expecting nothing except and beyond living_ <br>
-_i mean, living must be your whole occupation_ <br>
+II <br>
  <br>
-_you must take living seriously,_ <br>
-_i mean, to such an extent that,_ <br>
-_for example your arms are tied from your back, your back is on the wall,_ <br>
-_or in a laboratory with your white shirt, with your huge eyeglasses,_ <br>
-_you must be able to die for people,_ <br>
-_even for people you have never seen,_ <br>
-_although nobody forced you to do this,_ <br>
-_although you know that_ <br>
-_living is the most real, most beautiful thing_ <br>
+Let’s say we’re seriously ill, need surgery— <br>
+which is to say we might not get up <br>
+			from the white table. <br>
+Even though it’s impossible not to feel sad <br>
+			about going a little too soon, <br>
+we’ll still laugh at the jokes being told, <br>
+we’ll look out the window to see if it’s raining, <br>
+or still wait anxiously <br>
+		for the latest newscast. . .  <br>
+Let’s say we’re at the front— <br>
+	for something worth fighting for, say. <br>
+There, in the first offensive, on that very day, <br>
+	we might fall on our face, dead. <br>
+We’ll know this with a curious anger, <br>
+        but we’ll still worry ourselves to death <br>
+        about the outcome of the war, which could last years. <br>
+Let’s say we’re in prison <br>
+and close to fifty, <br>
+and we have eighteen more years, say, <br>
+                        before the iron doors will open. <br>
+We’ll still live with the outside, <br>
+with its people and animals, struggle and wind— <br>
+                                I  mean with the outside beyond the walls. <br>
+I mean, however and wherever we are, <br>
+        we must live as if we will never die. <br>
  <br>
-_i mean, you must take living so seriously that_ <br>
-_even when you are seventy, you must plant olive trees,_ <br>
-_not because you think they will be left to your children,_ <br>
-_because you don't believe in death although you are afraid of it_ <br>
-_because, i mean, life weighs heavier_ <br>
+III <br>
  <br>
-_suppose we are very sick, in need of surgey_ <br>
-_i mean, there is the possibility that_ <br>
-_we will never get up from the white table._ <br>
-_although it is impossible not to feel the grief of passing away_ <br>
-_somewhat too soon_ <br>
-_we will still laught at the funny joke being told_ <br>
-_we will look out of the window to see if it's raining_ <br>
-_or we will wait impatiently_ <br>
-_for the latest news from agencies_ <br>
- <br>
-_suppose, for something worth fighting for,_ <br>
-_suppose we are on the battlefield._ <br>
-_over there, in the first attach, on the first day_ <br>
-_we may fall on the ground on our face._ <br>
-_we will know this with a somewhat strange grudge,_ <br>
-_but we will still wonder like crazy_ <br>
-_the result of the war that will possible last for years_ <br>
- <br>
-_suppose we are in the jail,_ <br>
-_age is close to fifty,_ <br>
-_suppose there are still eighteen years until the iron door will open._ <br>
-_still, we will live with the outer world,_ <br>
-_with the people, animals, fights and winds_ <br>
-_i mean, with the outer world beyond the walls_ <br>
- <br>
-_i mean, however and wherever we are_ <br>
-_we must live as if there is no death_ <br>
- <br>
-_this earth will cool down,_ <br>
-_a start among all the stars,_ <br>
-_one of the tiniest,_ <br>
-_i mean, a grain of glitter in the blue velvet,_ <br>
-_i mean, this huge world of ours._ <br>
- <br>
-_this earth will cool down one day,_ <br>
-_not even like a pile of ice_ <br>
-_or like a dead cloud._ <br>
-_it will roll like an empty walnut_ <br>
-_in the pure, endless darkness._ <br>
- <br>
-_you must feel the pain of this now,_ <br>
-_you must feel the grief right now._ <br>
-_you must love this world so much_ <br>
-_to be able to say "i lived"_ <br>
+This earth will grow cold, <br>
+a star among stars <br>
+               and one of the smallest, <br>
+a gilded mote on blue velvet— <br>
+	  I mean this, our great earth. <br>
+This earth will grow cold one day, <br>
+not like a block of ice <br>
+or a dead cloud even  <br>
+but like an empty walnut it will roll along <br>
+	  in pitch-black space . . .  <br>
+You must grieve for this right now <br>
+—you have to feel this sorrow now— <br>
+for the world must be loved this much <br>
+                               if you’re going to say “I lived”. . . <br>
  <br>
 _-nazim hikmet_ <br>
  <br>

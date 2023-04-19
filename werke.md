@@ -23,10 +23,10 @@
 **Upcoming seminars and talks**
 
 [10] K. Şimşek, [_Precision electroweak measurements and SMEFT studies at the EIC_](), talk at Phenomenology 2023 Symposium, University of Pittsburgh, Pittsburgh, PA, May X, 2023. <br>
-[9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>
 
 **Seminars and talks**
 
+[9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](./files/docs/seminars-009-20230419-paecrs.pdf), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>
 [8] K. Şimşek, [_Precision electroweak measurements and beyond the Standard Model searches at the Electron-Ion Collider_](./files/docs/seminars-008-20230331-dis2023-precision_ew_and_bsm_at_eic.pdf), invited talk at DIS2023: XXX International Workshop on Deep-Inelastic Scattering and Related Subjects, Michigan State University, East Lansing, MI, March 30, 2023. <br>
 [7] K. Şimşek, [_SMEFT projections at the EIC and LHeC to NLO QCD_](./files/docs/seminars-007-20221202-phd-candidacy.pdf), PhD Candidacy talk at Northwestern University, Evanston, IL, December 2, 2022. <br>
 [6] K. Şimşek, [_SMEFT projections of neutral-current PVDIS asymmetries at the EIC_](./files/docs/seminars-006-20220725-eic-early-career-workshop-smeft_projections_of_nc_pvdis_asymmetries_at_the_eic.pdf), invited talk at EIC Early Career Workshop, remote, July 25, 2022. <br>

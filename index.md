@@ -20,23 +20,20 @@ ksimsek[at]u[dot]northwestern[dot]edu <br>
 \[[__hobbies__](https://kagsimsek.github.io/hobbies)\]
 \[[__writing instruments__](https://kagsimsek.github.io/writing_instruments)\]
 
-
-
-
-
 <img src="./files/img/cat.jpeg" alt="cat" width="350"/>
 
-
-
-
-
 <img src="./files/img/mathmeme.jpg" alt="mathmeme" width="350"/>
+
+<img src="./files/img/convincing.png" alt="convincing" width="500"/>
+
  <br>
  <br>
  <br>
  <br>
  <br>
 _on living_ <br>
+ <br>
+I <br>
  <br> 
 Living is no laughing matter: <br>
 	you must live with great seriousness <br>

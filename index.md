@@ -1,7 +1,3 @@
-_...mostly academic._
-
-impromptu on a theme in f major:
-
 <iframe 
   width="560" 
   height="315" 
@@ -13,9 +9,9 @@ impromptu on a theme in f major:
 >
 </iframe>
 
-kaan şimşek
 
-<img src="./files/img/my_own_self.png" alt="my own self" width="150"/>
+<img src="./files/img/my_own_self.png" alt="my own self" width="150"/> <br>
+kaan şimşek
 
 workplace:
 

@@ -1,8 +1,19 @@
 _...mostly academic._
 
 kaan şimşek <br>
-
+ <br>
 <img src="./files/img/my_own_self.png" alt="my own self" width="150"/>
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/-pt8LdupRos" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen
+>
+</iframe>
 
 workplace:
 

@@ -1,8 +1,6 @@
 _...mostly academic._
 
-kaan şimşek <br>
- <br>
-<img src="./files/img/my_own_self.png" alt="my own self" width="150"/>
+impromptu on a theme in f major:
 
 <iframe 
   width="560" 
@@ -14,6 +12,10 @@ kaan şimşek <br>
   allowfullscreen
 >
 </iframe>
+
+kaan şimşek
+
+<img src="./files/img/my_own_self.png" alt="my own self" width="150"/>
 
 workplace:
 

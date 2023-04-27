@@ -19,6 +19,16 @@ ksimsek[at]u[dot]northwestern[dot]edu <br>
 \[[__hobbies__](https://kagsimsek.github.io/hobbies)\]
 \[[__writing instruments__](https://kagsimsek.github.io/writing_instruments)\]
 
+_la vie est brève_ <br>
+_un peu de rêve_ <br>
+_un peu d’amour_ <br>
+_et puis bonjour!_ <br>
+
+_la vie est vaine_ <br>
+_un peu de peine_ <br>
+_un peu d’espoir_ <br>
+_et peu bonsoir!_ <br>
+
 <img src="./files/img/cat.jpeg" alt="cat" width="350"/>
 
 <img src="./files/img/mathmeme.jpg" alt="mathmeme" width="350"/>

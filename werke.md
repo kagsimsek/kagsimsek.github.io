@@ -10,7 +10,7 @@
 
 **Papers**
 
-[10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, \[arXiv: 2206.XXXXX\].
+[10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, \[arXiv: 2206.XXXXX\]. <br>
 [9] R. Boughezal, A. Emmert, T. Kutz, S. Mantry, M. Nycz, F. Petriello, K. Şimşek, D. Wiegand, X. Zheng, _Neutral-current electroweak physics and SMEFT studies at the EIC_, [Phys. Rev. D **106** (2022) 016006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.016006) \[[arXiv: 2204.07557](https://arxiv.org/abs/2204.07557)\]. <br>
 [8] R. Abdul Khalek et al., _Snowmass 2021 White Paper: Electron Ion Collider for High Energy Physics_, \[[arXiv: 2203.13199](https://arxiv.org/abs/2203.13199)\]. <br>
 [7] T. M. Aliev, K. Şimşek, _Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules_, [Phys. Rev. D **104** (2021) 074034](https://doi.org/10.1103/PhysRevD.104.074034) \[[arXiv: 2107.02735](https://arxiv.org/abs/2107.02735)\]. <br>

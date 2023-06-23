@@ -23,6 +23,7 @@
 
 **Upcoming seminars and talks**
 
+[11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](), talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
 
 **Seminars and talks**
 

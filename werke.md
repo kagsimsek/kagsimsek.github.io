@@ -22,11 +22,11 @@
 [1] T. M. Aliev, T. Barakat, K. Şimşek, _$N^*(1535)\to N$ transition form-factors due to the axial current_, [Phys. Rev. D **100** (2019) 054030](https://doi.org/10.1103/PhysRevD.100.054030) \[[arXiv: 1907.08017](https://arxiv.org/abs/1907.08017)\].
 
 **Upcoming seminars and talks**
-
-[11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](), talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
+ <br>
 
 **Seminars and talks**
 
+[11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](./files/docs/seminars-011-20230627-new_perspectives2023.pdf), talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
 [10] K. Şimşek, [_Precision electroweak measurements and SMEFT studies at the EIC_](./files/docs/seminars-010-20230509-pheno2023.pdf), talk at Phenomenology 2023 Symposium, University of Pittsburgh, Pittsburgh, PA, May 9, 2023. <br>
 [9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](./files/docs/seminars-009-20230419-paecrs.pdf), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>
 [8] K. Şimşek, [_Precision electroweak measurements and beyond the Standard Model searches at the Electron-Ion Collider_](./files/docs/seminars-008-20230331-dis2023-precision_ew_and_bsm_at_eic.pdf), invited talk at DIS2023: XXX International Workshop on Deep-Inelastic Scattering and Related Subjects, Michigan State University, East Lansing, MI, March 30, 2023. <br>

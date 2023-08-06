@@ -23,6 +23,7 @@ Compositions:
 [Op. 5 "Impressions" No. 3 "What Remains"](https://youtu.be/WOQjCSqKwaE) <br>
 [Op. 5 "Impressions" No. 4 "Waltz"](https://youtu.be/a1jTfJQsNLY) <br>
 [Op. 5 "Impressions" No. 5 "Nearness of You"](https://youtu.be/HzKv1qJlxNg) <br>
+[Op. 5 "Impressions" No. 6 "Minute Waltz"](https://youtu.be/xTVgUUZ3TbA) <br>
 
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).

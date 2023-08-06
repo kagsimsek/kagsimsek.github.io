@@ -54,5 +54,8 @@ Painting:
 8. Piece VIII
 ![](./files/img/painting/008.jpg)
 
+9. Piece IX
+![](./files/img/painting/009.jpg)
+
 Follow me on [GitHub](https://github.com/kagsimsek). <br>
 Let's [play chess](https://lichess.org/@/heppier).

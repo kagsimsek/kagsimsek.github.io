@@ -55,10 +55,10 @@ Painting:
 ![](./files/img/painting/008.jpg)
 
 9. Piece IX
-![](./files/img/painting/009.jpg)
+![](./files/img/painting/009.JPG)
 
 10. Piece X
-![](./files/img/painting/010.jpg)
+![](./files/img/painting/010.JPG)
 
 Follow me on [GitHub](https://github.com/kagsimsek). <br>
 Let's [play chess](https://lichess.org/@/heppier).

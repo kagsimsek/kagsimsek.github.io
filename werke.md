@@ -11,7 +11,7 @@
 **Papers**
 
 [11] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT analysis with LHeC, FCC-eh, and EIC DIS pseudodata_ \[[arXiv: 2307.09459](https://arxiv.org/abs/2307.09459)\]<br>
-[10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, \[[arXiv: 2306.05564](https://arxiv.org/abs/2306.05564)\]. <br>
+[10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, accepted for publication in PRD \[[arXiv: 2306.05564](https://arxiv.org/abs/2306.05564)\]. <br>
 [9] R. Boughezal, A. Emmert, T. Kutz, S. Mantry, M. Nycz, F. Petriello, K. Şimşek, D. Wiegand, X. Zheng, _Neutral-current electroweak physics and SMEFT studies at the EIC_, [Phys. Rev. D **106** (2022) 016006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.016006) \[[arXiv: 2204.07557](https://arxiv.org/abs/2204.07557)\]. <br>
 [8] R. Abdul Khalek et al., _Snowmass 2021 White Paper: Electron Ion Collider for High Energy Physics_, \[[arXiv: 2203.13199](https://arxiv.org/abs/2203.13199)\]. <br>
 [7] T. M. Aliev, K. Şimşek, _Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules_, [Phys. Rev. D **104** (2021) 074034](https://doi.org/10.1103/PhysRevD.104.074034) \[[arXiv: 2107.02735](https://arxiv.org/abs/2107.02735)\]. <br>
@@ -27,7 +27,7 @@
 
 **Seminars and talks**
 
-[11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](./files/docs/seminars-011-20230627-new_perspectives2023.pdf), talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
+[11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](./files/docs/seminars-011-20230627-new_perspectives2023.pdf)\*, talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
 [10] K. Şimşek, [_Precision electroweak measurements and SMEFT studies at the EIC_](./files/docs/seminars-010-20230509-pheno2023.pdf), talk at Phenomenology 2023 Symposium, University of Pittsburgh, Pittsburgh, PA, May 9, 2023. <br>
 [9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](./files/docs/seminars-009-20230419-paecrs.pdf), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>
 [8] K. Şimşek, [_Precision electroweak measurements and beyond the Standard Model searches at the Electron-Ion Collider_](./files/docs/seminars-008-20230331-dis2023-precision_ew_and_bsm_at_eic.pdf), invited talk at DIS2023: XXX International Workshop on Deep-Inelastic Scattering and Related Subjects, Michigan State University, East Lansing, MI, March 30, 2023. <br>
@@ -38,3 +38,5 @@
 [3] K. Şimşek, [_Neutral-current SMEFT studies at the EIC_](./files/docs/seminars-003-20220418-northwestern-hep-seminar-neutral_current_smeft_studies_at_the_eic.pdf), HEP seminar at Northwestern University, Evanston, IL, April 18, 2022. <br>
 [2] K. Şimşek, [_Applications of MUED to rare top quark processes_](./files/docs/seminars-002-20200208-rochester-2020_gsrm_talks-applications_of_mued_to_rare_top_quark_processes.pdf), talk at Graduate Students Research Meeting, University of Rochester, Rochester, NY, February 8, 2020. <br>
 [1] K. Şimşek, [_Universal extra dimensions_](./files/docs/20181206_ksimsek_universal_extra_dimensions_seminar.pdf), seminar at Middle East Technical University, Ankara, Turkey, December 6, 2018. 
+
+\* Awarded "the most engaging and fun talk". 

@@ -22,8 +22,8 @@ Phy 113, 114 General Physics I & II Laboratory (2019 Fall, Summer) <br>
 Phy 121, 122 Mechanics & Electromagnetism Laboratory (2019 Fall, Summer) <br>
 . . .[121 lab manual using iOLab](./files/docs/iolab_man_mechanics_113_121.pdf) <br>
 . . .[122 lab manual using iOLab](./files/docs/iolab_man_mechanics_114_122.pdf) <br>
-Phy 142 Electricity and Magnetism Laboratory (2019 Fall) <br>
 Phy 123 Waves and Modern Physics (2019 Spring)
+Phy 142 Electricity and Magnetism Laboratory (2019 Fall) <br>
 
 @ Northwestern University, Evanston, IL <br>
 - Undergrad level <br>
@@ -43,6 +43,7 @@ Physics 135-2,3 General Physics (2022 Summer) <br>
 . . .[Some notes](./files/teaching/135-3_notes_1.pdf) <br>
 . . .[Introduction to Mathematica](./files/teaching/intro_to_mma.zip) <br>
 - Graduate level <br>
+Physics 411-1 Methods of Theoretical Physics (2021 Fall, 2022 Fall, 2023 Fall) <br>
 Physics 412-1 Quantum Mechanics (2022 Fall) <br>
 . . .[TA introduction](./files/docs/2022_fall_physics412-1_ta_introduction.pdf) <br>
 . . .[TA notes](./files/teaching/2022_Fall_Phys_412_1_Quantum_Mechanics.pdf) <br>
@@ -51,3 +52,4 @@ Physics 412-3 Quantum Mechanics (2023 Spring) <br>
 . . .[TA notes](./files/teaching/2023_Spring_Phys_412_3_Quantum_Mechanics.pdf) <br>
 Physics 412-1 Quantum Mechanics (2023 Fall) <br>
 . . .[TA introduction](./files/teaching/2023_fall_physics412-1_ta_introduction.pdf) <br>
+Physics 416-0 Introduction to Statistical Mechanics (2021 Winter) <br>

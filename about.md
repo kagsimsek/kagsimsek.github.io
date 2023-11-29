@@ -25,4 +25,4 @@ Physics 412-1 Quantum Mechanics
 
 <br>
   
-My most recent CV can be found [here](./files/cv/ksimsek_cv_en.pdf).
+My most recent CV can be found [here](./files/cv/cv.pdf).

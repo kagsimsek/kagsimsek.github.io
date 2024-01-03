@@ -19,9 +19,9 @@ Theories with extra dimensions, physics beyond the Standard Model, hadron physic
 [ORCID](https://orcid.org/
 0000-0003-1741-8908), [arXiv](https://arxiv.org/a/simsek_k_1.html), [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20K.Simsek.2), [Google Scholar](https://scholar.google.com/citations?hl=en&user=XZGHBbcAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek)
 
-**Courses I’m assisting this quarter (2023 Fall)**
+**Courses I’m assisting this quarter (2024 Winter)**
 
-Physics 412-1 Quantum Mechanics
+Physics 412-2 Quantum Mechanics
 
 <br>
   

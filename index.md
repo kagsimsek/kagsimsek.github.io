@@ -1,7 +1,5 @@
 compose music using random sequence of notes on mathematica: [`random compose`](https://github.com/kagsimsek/random_compose) <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V8Byt4CPfjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 workplace:
 
 department of physics & astronomy <br>

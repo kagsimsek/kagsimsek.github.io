@@ -28,7 +28,7 @@ Compositions:
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).
 
-Painting:
+Paints:
 
 1. Piece I
 ![](./files/img/painting/001.jpg)
@@ -59,6 +59,9 @@ Painting:
 
 10. Piece X
 ![](./files/img/painting/010.JPG)
+
+11. Piece XI
+![](./files/img/painting/011.JPG)
 
 Follow me on [GitHub](https://github.com/kagsimsek). <br>
 Let's [play chess](https://lichess.org/@/heppier).

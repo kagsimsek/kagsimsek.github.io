@@ -22,9 +22,9 @@ Theories with extra dimensions, physics beyond the Standard Model, hadron physic
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XZGHBbcAAAAJ), 
 [ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek)
 
-**Courses I’m assisting this quarter (2024 Winter)**
+**Courses I’m assisting this quarter (2024 Spring)**
 
-Physics 412-2 Quantum Mechanics
+Physics 412-3 Quantum Mechanics
 
 <br>
   

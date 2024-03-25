@@ -54,4 +54,6 @@ Physics 412-1 Quantum Mechanics (2023 Fall) <br>
 . . .[TA introduction](./files/teaching/2023_fall_physics412-1_ta_introduction.pdf) <br>
 Physics 412-2 Quantum Mechanics (2024 Winter) <br>
 . . .[TA introduction](./files/teaching/2024_winter_physics412-2_ta_introduction.pdf) <br>
+Physics 412-3 Quantum Mechanics (2024 Spring) <br>
+. . .[TA introduction](./files/teaching/2024_spring_physics412-3_ta_introduction.pdf) <br>
 Physics 416-0 Introduction to Statistical Mechanics (2021 Winter) <br>

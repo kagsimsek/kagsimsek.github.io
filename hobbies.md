@@ -28,40 +28,43 @@ Compositions:
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).
 
-Paints:
+Paintings:
 
-1. Piece I
+Piece I
 ![](./files/img/painting/001.jpg)
 
-2. Piece II
+Piece II
 ![](./files/img/painting/002.jpg)
 
-3. Piece III
+Piece III
 ![](./files/img/painting/003.jpg)
 
-4. Piece IV
+Piece IV
 ![](./files/img/painting/004.jpg)
 
-5. Piece V
+Piece V
 ![](./files/img/painting/005.jpg)
 
-6. Piece VI
+Piece VI
 ![](./files/img/painting/006.jpg)
 
-7. Piece VII
+Piece VII
 ![](./files/img/painting/007.jpg)
 
-8. Piece VIII
+Piece VIII
 ![](./files/img/painting/008.jpg)
 
-9. Piece IX
+Piece IX
 ![](./files/img/painting/009.JPG)
 
-10. Piece X
+Piece X
 ![](./files/img/painting/010.JPG)
 
-11. Piece XI
+Piece XI
 ![](./files/img/painting/011.JPG)
+
+Piece XII
+![](./files/img/painting/012.JPG)
 
 Follow me on [GitHub](https://github.com/kagsimsek). <br>
 Let's [play chess](https://lichess.org/@/heppier).

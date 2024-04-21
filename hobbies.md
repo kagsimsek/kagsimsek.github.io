@@ -24,8 +24,10 @@ Compositions:
 [Op. 5 "Impressions" No. 4 "Waltz"](https://youtu.be/a1jTfJQsNLY) <br>
 [Op. 5 "Impressions" No. 5 "Nearness of You"](https://youtu.be/HzKv1qJlxNg) <br>
 [Op. 5 "Impressions" No. 6 "Minute Waltz"](https://youtu.be/xTVgUUZ3TbA) <br>
+[Op. 6 "Monologues" No. 1 "Life as I See"](https://youtu.be/h_rBvlZn2AQ) <br>
 
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
+Follow me on [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=Pl1K9w51QEuVke4gM2g9RA). <br>
 Follow me on [SoundCloud](https://soundcloud.com/kagsimsek).
 
 Paintings:

@@ -10,7 +10,7 @@
 
 **Papers**
 
-[12] R. Boughezal, F. Petriello, K. Şimşek, _Transverse spin asymmetries and the electron Yukawa coupling at an FCC-ee_ \[[arXiv: 2407.12975](http://arxiv.org/abs/2407.12975)\] <br>
+[12] R. Boughezal, F. Petriello, K. Şimşek, _Transverse spin asymmetries and the electron Yukawa coupling at an FCC-ee_, submitted to Phys. Rev. D \[[arXiv: 2407.12975](http://arxiv.org/abs/2407.12975)\] <br>
 [11] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT analysis with LHeC, FCC-eh, and EIC DIS pseudodata_ \[[arXiv: 2307.09459](https://arxiv.org/abs/2307.09459)\]<br>
 [10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, [Phys. Rev. D **108** (2023) 075007](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.075007) \[[arXiv: 2306.05564](https://arxiv.org/abs/2306.05564)\]. <br>
 [9] R. Boughezal, A. Emmert, T. Kutz, S. Mantry, M. Nycz, F. Petriello, K. Şimşek, D. Wiegand, X. Zheng, _Neutral-current electroweak physics and SMEFT studies at the EIC_, [Phys. Rev. D **106** (2022) 016006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.016006) \[[arXiv: 2204.07557](https://arxiv.org/abs/2204.07557)\]. <br>

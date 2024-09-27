@@ -20,7 +20,9 @@ Theories with extra dimensions, physics beyond the Standard Model, hadron physic
 [arXiv](https://arxiv.org/a/simsek_k_1.html), 
 [INSPIRE-HEP](https://inspirehep.net/literature?q=a%20Kagan.Simsek.1), 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XZGHBbcAAAAJ), 
-[ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek)
+[ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek),
+[Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q),
+[YouTube](https://www.youtube.com/@pianofalan)
 
 **Courses I’m assisting this quarter (2024 Spring)**
 

@@ -24,9 +24,9 @@ Theories with extra dimensions, physics beyond the Standard Model, hadron physic
 [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q),
 [YouTube](https://www.youtube.com/@pianofalan)
 
-**Courses I’m assisting this quarter (2024 Spring)**
+**Courses I’m assisting this quarter (2024 Fall)**
 
-Physics 412-3 Quantum Mechanics
+Physics 136-2 General Physics Laboratory
 
 <br>
   

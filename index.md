@@ -1,5 +1,7 @@
 latest:
 
+compose music using machine learning techniques on python: [`not-so-random compose`](https://github.com/kagsimsek/not-so-random_compose) <br>
+
 compose music using random sequence of notes on mathematica: [`random compose`](https://github.com/kagsimsek/random_compose) <br>
 
 follow on [spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q). <br>

@@ -1,3 +1,5 @@
+<img src="unnamed.JPG" alt="-smile +how about no" width="300"> <br>
+
 latest:
 
 compose music using machine learning techniques on python: [`not-so-random compose`](https://github.com/kagsimsek/not-so-random_compose) <br>

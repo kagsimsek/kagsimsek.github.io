@@ -1,4 +1,4 @@
-<img src="unnamed.JPG" alt="-smile +how about no" width="300"> <br>
+<img src="./files/img/unnamed.JPG" alt="-smile +how about no" width="300"> <br>
 
 latest:
 

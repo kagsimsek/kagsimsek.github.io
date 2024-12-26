@@ -27,6 +27,7 @@ Compositions:
 [Op. 6 "Monologues" No. 1 "Life as I See"](https://youtu.be/h_rBvlZn2AQ) <br>
 [Op. 6 "Monologues" No. 2 "Shadows at the Brink"](https://youtu.be/JJNGRIauMM8) <br>
 [Op. 6 "Monologues" No. 3 "Spectator Syndrome"](https://youtu.be/2ZknS7Se_J8) <br>
+[Op. 7 "Adnan" No. 1 "AMK."](https://youtu.be/mDkNiZB6_3I) <br>
 
 Collab:
 

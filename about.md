@@ -25,9 +25,9 @@ Theories with extra dimensions, physics beyond the Standard Model, hadron physic
 [YouTube](https://www.youtube.com/@pianofalan), 
 [LinkedIn](https://www.linkedin.com/in/kagsimsek)
 
-**Courses I’m assisting this quarter (2024 Fall)**
+**Courses I’m assisting this quarter (2025 Winter)**
 
-Physics 136-2 General Physics Laboratory
+Physics 126-2 General Physics Laboratory
 
 <br>
   

@@ -28,6 +28,7 @@ Compositions:
 [Op. 6 "Monologues" No. 2 "Shadows at the Brink"](https://youtu.be/JJNGRIauMM8) <br>
 [Op. 6 "Monologues" No. 3 "Spectator Syndrome"](https://youtu.be/2ZknS7Se_J8) <br>
 [Op. 7 "Adnan" No. 1 "AMK."](https://youtu.be/mDkNiZB6_3I) <br>
+[Op. 7 "Adnan" No. 2 "Gider Mekanigi"](https://youtu.be/kGEEpPD821w) <br>
 
 Collab:
 

@@ -40,6 +40,8 @@ _et peu bonsoir!_ <br>
 
 <img src="./files/img/convincing.png" alt="convincing" width="500"/>
 
+<img src="./files/img/go_fighting_westerns.png" alt="nu" width="350"/>
+
  <br>
  <br>
  <br>

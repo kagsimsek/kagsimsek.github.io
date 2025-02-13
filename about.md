@@ -12,7 +12,7 @@ Civil Engineering, BS, Middle East Technical University, Ankara, Turkey, 2009 --
 
 **Research interest**
 
-Theories with extra dimensions, physics beyond the Standard Model, hadron physics, rare processes, top physics, QCD, SM effective field theory
+HEP-ph (from the most recent to the oldest): QCD/EW precision, collider physics, effective field theories, hadron physics, top physics, rare processes, theories with extra dimensions
 
 **How to find me on the web**
 

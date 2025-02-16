@@ -35,6 +35,7 @@ Collab:
 [Lamp Light - Barbara Russa](https://youtu.be/d873f_UsQJU) <br>
 [Gunbatimi - Anil Evren](https://youtu.be/7KRM-kPefrI) <br>
 [Mexican Dream - Anil Evren](https://youtu.be/l1nrgjNT1p8) <br>
+[Beni Burada Biraktilar - Anil Evren](https://youtu.be/Kk3jrtFM6z4) <br>
 
 Follow me on [YouTube](https://www.youtube.com/channel/UCZyXHA37ucmJQfbALDMd5vQ). <br>
 Follow me on [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=Pl1K9w51QEuVke4gM2g9RA). <br>

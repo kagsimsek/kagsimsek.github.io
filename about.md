@@ -5,7 +5,6 @@
 **Education**
 
 Physics PhD candidate, Northwestern University, Evanston, IL, 2020 -- present <br>
-Physics PhD student, University of Rochester, Rochester, NY, 2019 -- 2020 <br>
 Physics MS, Middle East Technical University, Ankara, Turkey, 2017 -- 2019 <br>
 Physics BS, Middle East Technical University, Ankara, Turkey, 2012 -- 2017 <br>
 Civil Engineering, BS, Middle East Technical University, Ankara, Turkey, 2009 -- 2016 <br>
@@ -25,9 +24,9 @@ HEP-ph (from the most recent to the oldest): QCD/EW precision, collider physics,
 [YouTube](https://www.youtube.com/@pianofalan), 
 [LinkedIn](https://www.linkedin.com/in/kagsimsek)
 
-**Courses I’m assisting this quarter (2025 Winter)**
+**Courses I’m assisting this quarter (2025 Spring)**
 
-Physics 126-2 General Physics Laboratory
+Physics 126-3 General Physics Laboratory
 
 <br>
   

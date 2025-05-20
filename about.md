@@ -4,14 +4,14 @@
 
 **Education**
 
-Physics PhD candidate, Northwestern University | Evanston, IL | Present <br>
-Physics MS, Middle East Technical University | Ankara, Turkey | 2019 <br>
-Physics BS, Middle East Technical University | Ankara, Turkey | 2017 <br>
-Civil Engineering, BS, Middle East Technical University | Ankara, Turkey | 2016 <br>
+Physics PhD candidate | Northwestern University | Evanston, IL | Present <br>
+Physics MSc | Middle East Technical University | Ankara, Turkey | 2019 <br>
+Physics BSc | Middle East Technical University | Ankara, Turkey | 2017 <br>
+Civil Engineering BSc | Middle East Technical University | Ankara, Turkey | 2016 <br>
 
 **Research interest**
 
-hep-ph (from the most recent to the oldest): QCD/EW precision, collider physics, effective field theories, hadron physics, top physics, rare processes, theories with extra dimensions
+hep-ph | QCD/EW precision, collider physics, effective field theories, hadron physics, top physics, rare processes, theories with extra dimensions
 
 **How to find me on the web**
 

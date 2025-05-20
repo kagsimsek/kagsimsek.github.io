@@ -2,7 +2,13 @@
 
 \[[__Go back__](https://kagsimsek.github.io)\]
 
-22. TWSBI Eco-T Mint Blue M [\*NEW\*]
+24. Lamy Safari Maroon LH
+![](./files/img/fpens/24-lamy-safari-maroon-lh.jpeg)
+
+23. Lamy Safari Pink/Purple M
+![](./files/img/fpens/23-lamy-safari-pink-purple-m.jpeg)
+
+22. TWSBI Eco-T Mint Blue M
 ![](./files/img/fpens/22-twsbi-eco-t-mint-blue-m.png)
 
 21. Kaweco Perkeo All Black M

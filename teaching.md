@@ -44,6 +44,8 @@ Physics 135-2,3 General Physics (2022 Summer) <br>
 . . .[Introduction to Mathematica](./files/teaching/intro_to_mma.zip) <br>
 Physics 136-2 General Physics Laboratory (2024 Fall) <br>
 Physics 126-2 Physics for ISP Laboratory: Electricity and Magnetism <br>
+Physics 126-3 Physics for ISP Laboratory <br>
+. . .[Mathematica MWE stat analysis](./files/teaching/mwe_stat_analysis.nb) <br>
 - Graduate level <br>
 Physics 411-1 Methods of Theoretical Physics (2021 Fall, 2022 Fall, 2023 Fall) <br>
 Physics 412-1 Quantum Mechanics (2022 Fall) <br>

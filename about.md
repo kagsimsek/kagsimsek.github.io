@@ -4,14 +4,14 @@
 
 **Education**
 
-Physics PhD candidate, Northwestern University, Evanston, IL, 2020 -- present <br>
-Physics MS, Middle East Technical University, Ankara, Turkey, 2017 -- 2019 <br>
-Physics BS, Middle East Technical University, Ankara, Turkey, 2012 -- 2017 <br>
-Civil Engineering, BS, Middle East Technical University, Ankara, Turkey, 2009 -- 2016 <br>
+Physics PhD candidate, Northwestern University | Evanston, IL | Present <br>
+Physics MS, Middle East Technical University | Ankara, Turkey | 2019 <br>
+Physics BS, Middle East Technical University | Ankara, Turkey | 2017 <br>
+Civil Engineering, BS, Middle East Technical University | Ankara, Turkey | 2016 <br>
 
 **Research interest**
 
-HEP-ph (from the most recent to the oldest): QCD/EW precision, collider physics, effective field theories, hadron physics, top physics, rare processes, theories with extra dimensions
+hep-ph (from the most recent to the oldest): QCD/EW precision, collider physics, effective field theories, hadron physics, top physics, rare processes, theories with extra dimensions
 
 **How to find me on the web**
 
@@ -22,7 +22,6 @@ HEP-ph (from the most recent to the oldest): QCD/EW precision, collider physics,
 [ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek),
 [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q),
 [YouTube](https://www.youtube.com/@pianofalan), 
-[LinkedIn](https://www.linkedin.com/in/kagsimsek)
 
 **Courses I’m assisting this quarter (2025 Spring)**
 

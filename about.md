@@ -4,7 +4,7 @@
 
 **Education**
 
-Physics PhD candidate | Northwestern University | Evanston, IL | Present <br>
+Physics PhD | Northwestern University | Evanston, IL | 2025 <br>
 Physics MSc | Middle East Technical University | Ankara, Turkey | 2019 <br>
 Physics BSc | Middle East Technical University | Ankara, Turkey | 2017 <br>
 Civil Engineering BSc | Middle East Technical University | Ankara, Turkey | 2016 <br>
@@ -23,9 +23,8 @@ hep-ph | QCD/EW precision, collider physics, effective field theories, hadron ph
 [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q),
 [YouTube](https://www.youtube.com/@pianofalan), 
 
-**Courses I’m assisting this quarter (2025 Spring)**
+**Courses I’m assisting this quarter (X)**
 
-Physics 126-3 General Physics Laboratory
 
 <br>
   

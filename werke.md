@@ -4,9 +4,10 @@
 
 **Theses**
 
-[3] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/index.pdf), Master’s thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019. <br>
-[2] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017. <br>
-[1] K. Şimşek _et al._, _Redesign of METU pedestrian bridge_, Bachelor’s thesis, Middle East Technical University (Ankara, Turkey), January 3, 2016. <br>
+[4] K. Şimşek, [_Precision phenomenology and new physics probes at future colliders_](), PhD thesis, Northwestern University (Evanston, IL), June 16, 2025. <br>
+[3] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/index.pdf), Master's thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019. <br>
+[2] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor's thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017. <br>
+[1] K. Şimşek _et al._, _Redesign of METU pedestrian bridge_, Bachelor's thesis, Middle East Technical University (Ankara, Turkey), January 3, 2016. <br>
 
 **Papers**
 
@@ -28,6 +29,7 @@
 
 **Seminars and talks**
 
+[12] K. Şimşek, [_Precision phenomenology and new physics probes at future colliders_](./files/docs/seminars-012-20250616-dissertation_talk.pdf), PhD Defense at Northwestern University, Evanston, IL, June 16, 2025. <br>
 [11] K. Şimşek, [_SMEFT probes in future precision DIS experiments_](./files/docs/seminars-011-20230627-new_perspectives2023.pdf)\*, talk at New Perspectives 2023, Fermilab, Batavia, IL, June 27, 2023. <br>
 [10] K. Şimşek, [_Precision electroweak measurements and SMEFT studies at the EIC_](./files/docs/seminars-010-20230509-pheno2023.pdf), talk at Phenomenology 2023 Symposium, University of Pittsburgh, Pittsburgh, PA, May 9, 2023. <br>
 [9] K. Şimşek, [_Beyond the Standard Model searches at the Electron-Ion Collider and the Large Hadron-electron Collider_](./files/docs/seminars-009-20230419-paecrs.pdf), invited talk at P&A Early Career Research Seminar, Northwestern University, Evanston, IL, April 19, 2023. <br>

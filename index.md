@@ -8,10 +8,10 @@ follow on [spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S6
 
 **workplace**
 
-department of physics & astronomy <br>
-northwestern university <br>
-evanston, il 60208, usa <br>
-ksimsek[at]u[dot]northwestern[dot]edu <br>
+department of physics <br>
+kennesaw state university <br>
+kennesaw, ga 30144 <br>
+_starting 8/2025_ <br>
 
 \[[__about__](https://kagsimsek.github.io/about)\]
 \[[__misc__](https://kagsimsek.github.io/misc)\]

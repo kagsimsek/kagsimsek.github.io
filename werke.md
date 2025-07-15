@@ -4,9 +4,9 @@
 
 **Theses**
 
-[4] K. Şimşek, [_Precision phenomenology and new physics probes at future colliders_](), PhD thesis, Northwestern University (Evanston, IL), June 16, 2025. <br>
-[3] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/index.pdf), Master's thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019. <br>
-[2] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_ksimsek_exploring_universal_extra_dimensions_ugrad_thesis.pdf), Bachelor's thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017. <br>
+[4] K. Şimşek, [_Precision phenomenology and new physics probes at future colliders_](./files/docs/20250616_phd_thesis.pdf), PhD thesis, Northwestern University (Evanston, IL), June 16, 2025. <br>
+[3] K. Şimşek, [_Exploring extra dimensions through rare processes_](./files/docs/20190712_ms_thesis.pdf), Master's thesis, Middle East Technical University (Ankara, Turkey), July 12, 2019. <br>
+[2] K. Şimşek, [_Exploring universal extra dimensions_](./files/docs/20172001_bs_thesis.pdf), Bachelor's thesis, Middle East Technical University (Ankara, Turkey), January 5, 2017. <br>
 [1] K. Şimşek _et al._, _Redesign of METU pedestrian bridge_, Bachelor's thesis, Middle East Technical University (Ankara, Turkey), January 3, 2016. <br>
 
 **Papers**

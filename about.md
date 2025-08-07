@@ -21,11 +21,7 @@ hep-ph | QCD/EW precision, collider physics, effective field theories, hadron ph
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XZGHBbcAAAAJ), 
 [ResearchGate](https://www.researchgate.net/profile/Kagan-Simsek),
 [Spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q),
-[YouTube](https://www.youtube.com/@pianofalan), 
+[YouTube](https://www.youtube.com/@pianofalan) 
 
-**Courses I’m assisting this quarter (X)**
-
-
-<br>
   
 My most recent CV can be found [here](./files/cv/cv.pdf).

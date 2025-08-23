@@ -18,10 +18,10 @@ Phys 545, 546 Particle Physics I & II (2018 Fall, Spring)
 - Undergrad level <br>
 Phy 113, 114 General Physics I & II Laboratory (2019 Fall, Summer) <br>
 . . .[113 lab manual using iOLab](./files/docs/iolab_man_mechanics_113_121.pdf) <br>
-. . .[114 lab manual using iOLab](./files/docs/iolab_man_mechanics_114_122.pdf) <br>
+. . .[114 lab manual using iOLab](./files/docs/iolab_man_electromagnetism_114_122.pdf) <br>
 Phy 121, 122 Mechanics & Electromagnetism Laboratory (2019 Fall, Summer) <br>
 . . .[121 lab manual using iOLab](./files/docs/iolab_man_mechanics_113_121.pdf) <br>
-. . .[122 lab manual using iOLab](./files/docs/iolab_man_mechanics_114_122.pdf) <br>
+. . .[122 lab manual using iOLab](./files/docs/iolab_man_electromagnetism_114_122.pdf) <br>
 Phy 123 Waves and Modern Physics (2019 Spring)
 Phy 142 Electricity and Magnetism Laboratory (2019 Fall) <br>
 

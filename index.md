@@ -31,7 +31,6 @@ _un peu de peine_ <br>
 _un peu d’espoir_ <br>
 _et peu bonsoir!_ <br>
 
-<img src="./files/img/anxiety_loop.jpg" alt="loop" width="350"/>
 
 <img src="./files/img/cat.jpeg" alt="cat" width="350"/>
 
@@ -40,6 +39,10 @@ _et peu bonsoir!_ <br>
 <img src="./files/img/convincing.png" alt="convincing" width="500"/>
 
 <img src="./files/img/go_fighting_westerns.png" alt="nu" width="350"/>
+
+<img src="./files/img/anxiety_loop.jpg" alt="loop" width="350"/>
+
+<img src="./files/img/random1.png" alt="random1" width="350"/>
 
  <br>
  <br>

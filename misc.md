@@ -72,6 +72,8 @@ _The best is the enemy of the good._ -Voltaire
 
 _The difference between fucking around and science is taking notes_ -Adam Savage
 
+_If my calculations are correct, when this baby hits 88 miles per hour, you are going to see some serious shit._ -Dr. Emmett Brown 
+
 * Quantum-mechanical harmonic oscillator: Copy the following into a Mathematica notebook and evaluate it. WF[n] will produce you the normalized nth eigenfunction of the oscillator.
 
 ```Mathematica

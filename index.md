@@ -44,6 +44,8 @@ _et peu bonsoir!_ <br>
 
 <img src="./files/img/random1.png" alt="random1" width="350"/>
 
+<img src="./files/img/newton_vs_lagrange.png" alt="newton_vs_lagrange" width="350"/>
+
  <br>
  <br>
  <br>

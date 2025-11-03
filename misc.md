@@ -4,7 +4,8 @@
 
 ![Ataturk](./files/img/ataturk_calisirken.jpeg)
 
-_Science is the most reliable guide in life._ -Mustafa Kemal Ataturk
+_Science is the truest guide for civilization, for life, for success in the world. Searching
+for a guide other than science is absurdity, ignorance, and heresy._ -Mustafa Kemal Ataturk
 
 ### Before Jan 14, 2022: Some links may be dead, things may be broken
 

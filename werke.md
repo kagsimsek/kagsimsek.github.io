@@ -11,6 +11,7 @@
 
 **Papers**
 
+[13] F. Petriello, K. Şimşek, _Naive $T$-odd Drell-Yan angular coefficients as a probe of the dimension-8 SMEFT_, \[[arXiv: 2511.XXXXX]()\]. <br>
 [12] R. Boughezal, F. Petriello, K. Şimşek, _Transverse spin asymmetries and the electron Yukawa coupling at an FCC-ee_, [Phys. Rev. D **110** (2024) 075026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.075026) \[[arXiv: 2407.12975](http://arxiv.org/abs/2407.12975)\] <br>
 [11] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT analysis with LHeC, FCC-eh, and EIC DIS pseudodata_ \[[arXiv: 2307.09459](https://arxiv.org/abs/2307.09459)\]<br>
 [10] C. Bissolotti, R. Boughezal, K. Şimşek, _SMEFT probes in future precision DIS experiments_, [Phys. Rev. D **108** (2023) 075007](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.075007) \[[arXiv: 2306.05564](https://arxiv.org/abs/2306.05564)\]. <br>

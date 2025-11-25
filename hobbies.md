@@ -29,9 +29,9 @@ Compositions:
 [Op. 6 "Monologues" No. 3 "Spectator Syndrome"](https://youtu.be/2ZknS7Se_J8) <br>
 [Op. 7 "Adnan" No. 1 "AMK."](https://youtu.be/mDkNiZB6_3I) <br>
 [Op. 7 "Adnan" No. 2 "Gider Mekanigi"](https://youtu.be/kGEEpPD821w) <br>
-[Op. 8 "Anomalous Brownian Collisions" No. 1 "Meatball Valse"](https://youtu.be/Mh8IivYqplc) <br>
-[Op. 8 "Anomalous Brownian Collisions" No. 2 "Soup Valse"](https://youtu.be/GCP1SojFu4Q) <br>
-[Op. 8 "Anomalous Brownian Collisions" No. 3 "Sunrise"](https://youtu.be/7ZWZ8sEhSPc) <br>
+[Op. 8 "Anomalous Brownian Motion" No. 1 "Meatball Valse"](https://youtu.be/Mh8IivYqplc) <br>
+[Op. 8 "Anomalous Brownian Motion" No. 2 "Soup Valse"](https://youtu.be/GCP1SojFu4Q) <br>
+[Op. 8 "Anomalous Brownian Motion" No. 3 "Sunrise"](https://youtu.be/7ZWZ8sEhSPc) <br>
 
 Collab:
 

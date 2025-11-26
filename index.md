@@ -1,5 +1,7 @@
 **latest**
 
+<img src="./files/img/sunrise_over_atlantic.jpg" alt="sunrise_over_atlantic" width="350"/>
+
 compose music using machine learning techniques on python: [`not-so-random compose`](https://github.com/kagsimsek/not-so-random_compose) <br>
 
 compose music using random sequence of notes on mathematica: [`random compose`](https://github.com/kagsimsek/random_compose) <br>

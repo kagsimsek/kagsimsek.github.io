@@ -11,6 +11,7 @@
 
 **Papers**
 
+[16] N. Kidonakis, K. Şimşek, _N${}^3$LO soft-gluon corrections for $Z\gamma$ production_, \[[arXiv:2608.XXXXX](https://arxiv.org/abs/2608.XXXXX)\]. <br>
 [15] N. Kidonakis, K. Şimşek, _$t\bar t$ production as a probe of dimension-6 SMEFT at higher orders_, \[[arXiv:2604.00902](https://arxiv.org/abs/2604.00902)\]. <br>
 [14] N. Kidonakis, K. Şimşek, _Constraining dimension-6 SMEFT with higher-order predictions for $pp \to tW$_, [Phys. Rev. D **113** (2026) 095004](https://journals.aps.org/prd/abstract/10.1103/6gpr-knw7) \[[arXiv:2601.21040](https://arxiv.org/abs/2601.21040)\]. <br>
 [13] F. Petriello, K. Şimşek, _Naive $T$-odd Drell-Yan angular coefficients as a probe of the dimension-8 SMEFT_, [Phys. Rev. D **113** (2026) 075029](https://journals.aps.org/prd/abstract/10.1103/dywt-f6ht) \[[arXiv:2511.19617](https://arxiv.org/abs/2511.19617)\]. <br>

@@ -32,6 +32,10 @@ Compositions:
 [Op. 8 "Anomalous Brownian Motion" No. 1 "Meatball Valse"](https://youtu.be/Mh8IivYqplc) <br>
 [Op. 8 "Anomalous Brownian Motion" No. 2 "Soup Valse"](https://youtu.be/GCP1SojFu4Q) <br>
 [Op. 8 "Anomalous Brownian Motion" No. 3 "Sunrise"](https://youtu.be/7ZWZ8sEhSPc) <br>
+[Op. 9 "Home" No. 1 "Melancholy"](https://youtu.be/NUXmIfGqz50) <br>
+[Op. 9 "Home" No. 2 "Where You Stood"](https://youtu.be/izIg904hk90) <br>
+[Op. 9 "Home" No. 3 "Florida Bourbon"](https://youtu.be/pcEtl2mi4So) <br>
+[Op. 9 "Home" No. 4 "It's Bananas"](https://youtu.be/Sr8F8cW1hrA) <br>
 
 Collab:
 

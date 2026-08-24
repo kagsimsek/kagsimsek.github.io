@@ -10,12 +10,6 @@ compose music using random sequence of notes on mathematica: [`random compose`](
 
 follow on [spotify](https://open.spotify.com/artist/61Bqs23yCeYVBvbNtuA5tk?si=S67Hi7erRtq6dhJxLKoM9Q). <br>
 
-**workplace**
-
-department of physics <br>
-kennesaw state university <br>
-kennesaw, ga 30144 <br>
-
 \[[__about__](https://kagsimsek.github.io/about)\]
 \[[__misc__](https://kagsimsek.github.io/misc)\]
 \[[__tutorials__](https://kagsimsek.github.io/tutorials)\]
